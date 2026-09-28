@@ -808,7 +808,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/שלגיה.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 101,
