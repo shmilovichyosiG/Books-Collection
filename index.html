@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>קטלוג הספרים</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head><body>
+
+  <div class="page">
+
+    <header class="page-header">
+      <h1 class="page-title">קטלוג הספרים</h1>
+      <p id="resultsCount" class="results-count"></p>
+    </header>
+
+    <section class="filters-card">
+      <div class="filters-row">
+        <label class="filter-field">
+          <span class="filter-label">סגנון</span>
+          <select id="styleFilter"></select>
+        </label>
+
+        <label class="filter-field">
+          <span class="filter-label">הוצאה</span>
+          <select id="publisherFilter"></select>
+        </label>
+
+        <label class="filter-field">
+          <span class="filter-label">סופר</span>
+          <select id="authorFilter"></select>
+        </label>
+      </div>
+
+      <div class="search-row">
+        <label class="filter-field search-field">
+          <span class="filter-label">שם ספר</span>
+          <input id="searchInput" type="text" placeholder="הקלד שם ספר…" list="bookNamesList" autocomplete="off" />
+          <datalist id="bookNamesList"></datalist>
+        </label>
+        <button id="clearFiltersBtn" class="ghost-button">נקה סינון</button>
+      </div>
+    </section>
+
+    <section id="booksGrid" class="books-grid"></section>
+
+    <p id="emptyMessage" class="empty-message hidden">לא נמצאו ספרים התואמים לחיפוש.</p>
+
+  </div>
+
+  <script src="books-data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
