@@ -925,33 +925,33 @@ const BOOKS_DATA = [
   {
     "index": 115,
     "name": "ניצוץ של אור",
-    "style": "",
-    "author": "",
-    "publisher": "",
+    "style": "פרוזה מקור",
+    "author": "ג'ודי פיקו",
+    "publisher": "כנרת זמורה דביר",
     "imageUrl": "Images/ניצוץ_של_אור.jpg"
   },
   {
     "index": 116,
     "name": "עד קצה העולם",
-    "style": "",
-    "author": "",
-    "publisher": "",
+    "style": "מד\"ב ופנטזיה",
+    "author": "שי בן אור",
+    "publisher": "ספרי ניב",
     "imageUrl": "Images/עד_קצה_העולם.jpg"
   },
   {
     "index": 117,
-    "name": "על מקום המצאה",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "Images/על_מקום_המצאה.jpg"
+    "name": "על מקום הימצאה",
+    "style": "פרוזה מקור",
+    "author": "תמר קפלנסקי",
+    "publisher": "כתר",
+    "imageUrl": "Images/על_מקום_הימצאה.jpg"
   },
   {
     "index": 118,
     "name": "קודם כול אהבה",
-    "style": "",
-    "author": "",
-    "publisher": "",
+    "style": "פרוזה מקור",
+    "author": "אמילי גיפין",
+    "publisher": "ידיעות ספרים",
     "imageUrl": "Images/קודם_כול_אהבה.jpg"
   },
   {
@@ -965,121 +965,121 @@ const BOOKS_DATA = [
   {
     "index": 120,
     "name": "אמא של הים",
-    "style": "",
-    "author": "",
-    "publisher": "",
+    "style": "פרוזה מקור",
+    "author": "דונטלה די פייטרנטוניו",
+    "publisher": "כנרת זמורה דביר",
     "imageUrl": "Images/אמא_של_הים.jpg"
   },
   {
     "index": 121,
     "name": "אפשר לגלות לך סוד",
-    "style": "",
-    "author": "",
-    "publisher": "",
+    "style": "רומן רומנטי",
+    "author": "סופי קינסלה",
+    "publisher": "מודן",
     "imageUrl": "Images/אפשר_לגלות_לך_סוד.jpg"
   },
   {
     "index": 122,
     "name": "בארבע ידיים",
-    "style": "",
-    "author": "",
-    "publisher": "",
+    "style": "מתח ופעולה",
+    "author": "ענבל אלמוזנינו",
+    "publisher": "ספרות שנוגעת",
     "imageUrl": "Images/בארבע_ידיים.jpg"
   },
   {
     "index": 123,
-    "name": "בחזרה לטואיצי",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "Images/בחזרה_לטואיצי.jpg"
+    "name": "בחזרה מטואיצי",
+    "style": "פרוזה מקור",
+    "author": "יוסי גינסברג",
+    "publisher": "כנרת זמורה דביר",
+    "imageUrl": "Images/בחזרה_מטואיצי.jpg"
   },
   {
     "index": 124,
     "name": "גנבת הספרים",
-    "style": "",
-    "author": "",
-    "publisher": "",
+    "style": "פרוזה מקור",
+    "author": "מרקוס זוסאק",
+    "publisher": "מודן",
     "imageUrl": "Images/גנבת_הספרים.jpg"
   },
   {
     "index": 125,
     "name": "דירה בפריז",
-    "style": "",
-    "author": "",
-    "publisher": "",
+    "style": "מתח ופעולה",
+    "author": "גיום מוסו",
+    "publisher": "כנרת זמורה דביר",
     "imageUrl": "Images/דירה_בפריז.jpg"
   },
   {
     "index": 126,
     "name": "האישה בחלון",
-    "style": "",
-    "author": "",
-    "publisher": "",
+    "style": "מתח ופעולה",
+    "author": "א. ג'. פין",
+    "publisher": "כנרת זמורה דביר",
     "imageUrl": "Images/האישה_בחלון.jpg"
   },
   {
     "index": 127,
     "name": "הגירוש מן הארמון",
-    "style": "",
-    "author": "",
-    "publisher": "",
+    "style": "פרוזה מקור",
+    "author": "רם אורן",
+    "publisher": "קשת",
     "imageUrl": "Images/הגירוש_מן_הארמון.jpg"
   },
   {
     "index": 128,
     "name": "היינו בני מזל",
-    "style": "",
-    "author": "",
-    "publisher": "",
+    "style": "שואה",
+    "author": "ג'ורג'יה האנטר",
+    "publisher": "מטר",
     "imageUrl": "Images/היינו_בני_מזל.jpg"
   },
   {
     "index": 129,
     "name": "הילדה",
-    "style": "",
-    "author": "",
-    "publisher": "",
+    "style": "מתח ופעולה",
+    "author": "פיונה ברטון",
+    "publisher": "ידיעות ספרים",
     "imageUrl": "Images/הילדה.jpg"
   },
   {
     "index": 130,
     "name": "המעגל",
-    "style": "",
-    "author": "",
-    "publisher": "",
+    "style": "מד\"ב ופנטזיה",
+    "author": "שרה ב. אלפגרן, מאטס סטרנדברג",
+    "publisher": "סלע ספרים",
     "imageUrl": "Images/המעגל.jpg"
   },
   {
     "index": 131,
     "name": "מחול ואפר",
-    "style": "",
-    "author": "",
-    "publisher": "",
+    "style": "שואה",
+    "author": "איימי הרמון",
+    "publisher": "אהבות הוצאה לאור",
     "imageUrl": "Images/מחול_ואפר.jpg"
   },
   {
     "index": 132,
     "name": "סודות של חיים מופלאים",
-    "style": "",
-    "author": "",
-    "publisher": "",
+    "style": "פרוזה מקור",
+    "author": "סוזן מייסנר",
+    "publisher": "מודן",
     "imageUrl": "Images/סודות_של_חיים_מופלאים.jpg"
   },
   {
     "index": 133,
     "name": "צעד גדול קטן",
-    "style": "",
-    "author": "",
-    "publisher": "",
+    "style": "פרוזה מקור",
+    "author": "ג'ודי פיקו",
+    "publisher": "כנרת זמורה דביר",
     "imageUrl": "Images/צעד_גדול_קטן.jpg"
   },
   {
     "index": 134,
     "name": "שטן בירושלים",
-    "style": "",
-    "author": "",
-    "publisher": "",
+    "style": "פרוזה מקור",
+    "author": "נעמי רגן",
+    "publisher": "כנרת זמורה דביר",
     "imageUrl": "Images/שטן_בירושלים.jpg"
   },
   {
