@@ -1085,26 +1085,26 @@ const BOOKS_DATA = [
   {
     "index": 135,
     "name": "שמים פתוחים",
-    "style": "",
-    "author": "",
-    "publisher": "",
+    "style": "פרוזה מקור",
+    "author": "רונה רמון",
+    "publisher": "ידיעות ספרים",
     "imageUrl": "Images/שמים_פתוחים.jpg"
   },
   {
     "index": 136,
-    "name": "שמים שאין להם חוף",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "Images/שמים_שאין_להם_חוף.jpg"
+    "name": "שמיים שאין להם חוף",
+    "style": "פרוזה מקור",
+    "author": "יפעת ארליך",
+    "publisher": "כנרת זמורה דביר",
+    "imageUrl": "Images/שמיים_שאין_להם_חוף.jpg"
   },
   {
     "index": 137,
-    "name": "אובסייה עיוורת",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "Images/אובסייה_עיוורת.jpg"
+    "name": "אובססיה עיוורת",
+    "style": "רומן רומנטי",
+    "author": "אלה פרנק",
+    "publisher": "מלודי",
+    "imageUrl": "Images/אובססיה_עיוורת.jpg"
   },
   {
     "index": 138,
@@ -1117,17 +1117,17 @@ const BOOKS_DATA = [
   {
     "index": 139,
     "name": "אחות הסערה",
-    "style": "",
-    "author": "",
-    "publisher": "",
+    "style": "רומן רומנטי",
+    "author": "לוסינדה ריילי",
+    "publisher": "מודן",
     "imageUrl": "Images/אחות_הסערה.jpg"
   },
   {
     "index": 140,
     "name": "אל שולחנו של הזאב",
-    "style": "",
-    "author": "",
-    "publisher": "",
+    "style": "פרוזה מקור",
+    "author": "רוזלה פוסטורינו",
+    "publisher": "ידיעות ספרים",
     "imageUrl": "Images/אל_שולחנו_של_הזאב.jpg"
   },
   {
@@ -1148,18 +1148,18 @@ const BOOKS_DATA = [
   },
   {
     "index": 143,
-    "name": "הממזרה מאינסטמבול",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "Images/הממזרה_מאינסטמבול.jpg"
+    "name": "הממזרה מאינסטנבול",
+    "style": "פרוזה מקור",
+    "author": "אליף שאפאק",
+    "publisher": "מחברות לספרות",
+    "imageUrl": "Images/הממזרה_מאינסטנבול.jpg"
   },
   {
     "index": 144,
     "name": "הסודות ששמרנו",
-    "style": "",
-    "author": "",
-    "publisher": "",
+    "style": "פרוזה מקור",
+    "author": "לארה פרסקוט",
+    "publisher": "מודן",
     "imageUrl": "Images/הסודות_ששמרנו.jpg"
   },
   {
