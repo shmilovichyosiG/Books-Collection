@@ -808,7 +808,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/שלגיה.jpg"
   },
   {
     "index": 101,
@@ -845,42 +845,42 @@ const BOOKS_DATA = [
   {
     "index": 105,
     "name": "דיאטה 21 ימים",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "style": "בריאות",
+    "author": "אסים מלהוטרה, דונל או'ניל",
+    "publisher": "תכלת",
+    "imageUrl": "Images/דיאטה_21_ימים.jpg"
   },
   {
     "index": 106,
     "name": "הדירה ברחוב אמלי",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "style": "פרוזה מקור",
+    "author": "קריסטין הרמל",
+    "publisher": "מודן",
+    "imageUrl": "Images/הדירה_ברחוב_אמלי.jpg"
   },
   {
     "index": 107,
     "name": "החיים הסודיים של הדבורים",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "style": "פרוזה מקור",
+    "author": "סו מונק קיד",
+    "publisher": "כנרת זמורה דביר",
+    "imageUrl": "Images/החיים_הסודיים_של_הדבורים.jpg"
   },
   {
     "index": 108,
     "name": "המרגל האנגלי",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "style": "מתח ופעולה",
+    "author": "דניאל סילבה",
+    "publisher": "כנרת זמורה דביר",
+    "imageUrl": "Images/המרגל_האנגלי.jpg"
   },
   {
     "index": 109,
     "name": "והלב הולך אחרון",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "style": "פרוזה מקור",
+    "author": "מרגרט אטווד",
+    "publisher": "כנרת זמורה דביר",
+    "imageUrl": "Images/והלב_הולך_אחרון.jpg"
   },
   {
     "index": 110,
