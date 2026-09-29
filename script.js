@@ -3,103 +3,103 @@ const ALL_LABEL = "-- הכל --";
 let allBooks = []; // [{ index, name, style, author, publisher, imageUrl }]
 
 const els = {
-  styleFilter: document.getElementById("styleFilter"),
-  publisherFilter: document.getElementById("publisherFilter"),
-  authorFilter: document.getElementById("authorFilter"),
-  searchInput: document.getElementById("searchInput"),
-  bookNamesList: document.getElementById("bookNamesList"),
-  clearFiltersBtn: document.getElementById("clearFiltersBtn"),
-  booksGrid: document.getElementById("booksGrid"),
-  emptyMessage: document.getElementById("emptyMessage"),
-  resultsCount: document.getElementById("resultsCount"),
+    styleFilter: document.getElementById("styleFilter"),
+    publisherFilter: document.getElementById("publisherFilter"),
+    authorFilter: document.getElementById("authorFilter"),
+    searchInput: document.getElementById("searchInput"),
+    bookNamesList: document.getElementById("bookNamesList"),
+    clearFiltersBtn: document.getElementById("clearFiltersBtn"),
+    booksGrid: document.getElementById("booksGrid"),
+    emptyMessage: document.getElementById("emptyMessage"),
+    resultsCount: document.getElementById("resultsCount"),
 };
 
 /* ---------- אתחול ---------- */
 
 function init() {
-  if (typeof BOOKS_DATA === "undefined") {
-    els.resultsCount.textContent = "לא נמצא books-data.js - יש להריץ build.bat קודם";
-    return;
-  }
+    if (typeof BOOKS_DATA === "undefined") {
+        els.resultsCount.textContent = "לא נמצא books-data.js - יש להריץ build.bat קודם";
+        return;
+    }
 
-  allBooks = BOOKS_DATA;
+    allBooks = BOOKS_DATA;
 
-  populateFilterOptions();
-  populateBookNamesList();
-  render();
+    populateFilterOptions();
+    populateBookNamesList();
+    render();
 }
 
 /* ---------- מילוי תיבות הסינון ---------- */
 
 function distinctSorted(values) {
-  return [...new Set(values.filter((v) => v))].sort((a, b) => a.localeCompare(b, "he"));
+    return [...new Set(values.filter((v) => v))].sort((a, b) => a.localeCompare(b, "he"));
 }
 
 function fillSelect(selectEl, values) {
-  selectEl.innerHTML = "";
-  const allOption = document.createElement("option");
-  allOption.value = ALL_LABEL;
-  allOption.textContent = ALL_LABEL;
-  selectEl.appendChild(allOption);
+    selectEl.innerHTML = "";
+    const allOption = document.createElement("option");
+    allOption.value = ALL_LABEL;
+    allOption.textContent = ALL_LABEL;
+    selectEl.appendChild(allOption);
 
-  values.forEach((v) => {
-    const opt = document.createElement("option");
-    opt.value = v;
-    opt.textContent = v;
-    selectEl.appendChild(opt);
-  });
+    values.forEach((v) => {
+        const opt = document.createElement("option");
+        opt.value = v;
+        opt.textContent = v;
+        selectEl.appendChild(opt);
+    });
 }
 
 function populateFilterOptions() {
-  fillSelect(els.styleFilter, distinctSorted(allBooks.map((b) => b.style)));
-  fillSelect(els.publisherFilter, distinctSorted(allBooks.map((b) => b.publisher)));
-  fillSelect(els.authorFilter, distinctSorted(allBooks.map((b) => b.author)));
+    fillSelect(els.styleFilter, distinctSorted(allBooks.map((b) => b.style)));
+    fillSelect(els.publisherFilter, distinctSorted(allBooks.map((b) => b.publisher)));
+    fillSelect(els.authorFilter, distinctSorted(allBooks.map((b) => b.author)));
 }
 
 function populateBookNamesList() {
-  els.bookNamesList.innerHTML = "";
-  distinctSorted(allBooks.map((b) => b.name)).forEach((name) => {
-    const opt = document.createElement("option");
-    opt.value = name;
-    els.bookNamesList.appendChild(opt);
-  });
+    els.bookNamesList.innerHTML = "";
+    distinctSorted(allBooks.map((b) => b.name)).forEach((name) => {
+        const opt = document.createElement("option");
+        opt.value = name;
+        els.bookNamesList.appendChild(opt);
+    });
 }
 
 /* ---------- סינון ותצוגה ---------- */
 
 function getFilteredBooks() {
-  const style = els.styleFilter.value;
-  const publisher = els.publisherFilter.value;
-  const author = els.authorFilter.value;
-  const search = els.searchInput.value.trim().toLowerCase();
+    const style = els.styleFilter.value;
+    const publisher = els.publisherFilter.value;
+    const author = els.authorFilter.value;
+    const search = els.searchInput.value.trim().toLowerCase();
 
-  return allBooks.filter((b) => {
-    if (style !== ALL_LABEL && b.style !== style) return false;
-    if (publisher !== ALL_LABEL && b.publisher !== publisher) return false;
-    if (author !== ALL_LABEL && b.author !== author) return false;
-    if (search && !b.name.toLowerCase().includes(search)) return false;
-    return true;
-  });
+    return allBooks.filter((b) => {
+        if (style !== ALL_LABEL && b.style !== style) return false;
+        if (publisher !== ALL_LABEL && b.publisher !== publisher) return false;
+        if (author !== ALL_LABEL && b.author !== author) return false;
+        if (search && !b.name.toLowerCase().includes(search)) return false;
+        return true;
+    });
 }
 
 function render() {
-  const filtered = getFilteredBooks();
+    const filtered = getFilteredBooks();
 
-  els.resultsCount.textContent = `${filtered.length} מתוך ${allBooks.length} ספרים`;
-  els.booksGrid.innerHTML = "";
+    els.resultsCount.textContent = `${filtered.length} מתוך ${allBooks.length} ספרים`;
+    els.booksGrid.innerHTML = "";
 
-  if (filtered.length === 0) {
-    els.emptyMessage.classList.remove("hidden");
-    return;
-  }
-  els.emptyMessage.classList.add("hidden");
+    if (filtered.length === 0) {
+        els.emptyMessage.classList.remove("hidden");
+        return;
+    }
+    els.emptyMessage.classList.add("hidden");
 
-  filtered.forEach((book) => {
-    const card = document.createElement("article");
-    card.className = "book-card";
-    card.innerHTML = `
+    filtered.forEach((book) => {
+        const card = document.createElement("article");
+        card.className = "book-card";
+        card.innerHTML = `
       <div class="book-cover">
-        <img src="${book.imageUrl}" alt="${escapeHtml(book.name)}" loading="lazy" />
+        <img src="${book.imageUrl}" alt="${escapeHtml(book.name)}" loading="lazy" onerror="this.src='Images/cover_not_found.jpg'" />
       </div>
       <div class="book-info">
         <span class="book-style">${escapeHtml(book.style || "")}</span>
@@ -108,14 +108,14 @@ function render() {
         <div class="book-publisher">${escapeHtml(book.publisher || "")}</div>
       </div>
     `;
-    els.booksGrid.appendChild(card);
-  });
+        els.booksGrid.appendChild(card);
+    });
 }
 
 function escapeHtml(str) {
-  const div = document.createElement("div");
-  div.textContent = str;
-  return div.innerHTML;
+    const div = document.createElement("div");
+    div.textContent = str;
+    return div.innerHTML;
 }
 
 /* ---------- אירועים ---------- */
@@ -126,11 +126,11 @@ els.authorFilter.addEventListener("change", render);
 els.searchInput.addEventListener("input", render);
 
 els.clearFiltersBtn.addEventListener("click", () => {
-  els.styleFilter.value = ALL_LABEL;
-  els.publisherFilter.value = ALL_LABEL;
-  els.authorFilter.value = ALL_LABEL;
-  els.searchInput.value = "";
-  render();
+    els.styleFilter.value = ALL_LABEL;
+    els.publisherFilter.value = ALL_LABEL;
+    els.authorFilter.value = ALL_LABEL;
+    els.searchInput.value = "";
+    render();
 });
 
 init();

@@ -8,7 +8,7 @@ const BOOKS_DATA = [
     "style": "רומן רומנטי",
     "author": "פאולינה סיימונס",
     "publisher": "מודן",
-    "imageUrl": "Images/בית_בלגראנד.jpg"
+    "imageUrl": "Images/בית_בלגראד.jpg"
   },
   {
     "index": 1,
@@ -24,7 +24,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/בר_הרינגול.jpg"
   },
   {
     "index": 3,
@@ -88,7 +88,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/סנטה_מונטיפ.jpg"
   },
   {
     "index": 11,
@@ -112,7 +112,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אגדוטת_גרין.jpg"
   },
   {
     "index": 14,
@@ -144,7 +144,7 @@ const BOOKS_DATA = [
     "style": "ראשית קריאה ונוער צעיר",
     "author": "קנדי גארד",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "Images/גלי_מתחילה_ברגל_שמאל.jpg"
+    "imageUrl": "Images/ג'לי_-_מתחילה_ברגל_שמאל.jpg"
   },
   {
     "index": 18,
@@ -184,7 +184,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/המעיל_חתום_של_דוד_נחום.jpg"
   },
   {
     "index": 23,
@@ -224,7 +224,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הנסיכה_סלינה.jpg"
   },
   {
     "index": 28,
@@ -416,7 +416,7 @@ const BOOKS_DATA = [
     "style": "מתח ופעולה",
     "author": "לינה בנגטסדוטר",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "Images/פרנצסקה.jpg"
+    "imageUrl": "Images/פרנצ'סקה.jpg"
   },
   {
     "index": 52,
@@ -504,7 +504,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הילד_המקסיקני.jpg"
   },
   {
     "index": 63,
@@ -528,7 +528,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/זמן_צבים.jpg"
   },
   {
     "index": 66,
@@ -584,7 +584,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/נסיכה_של_נייר.jpg"
   },
   {
     "index": 73,
@@ -656,7 +656,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אומנות_חרושים.jpg"
   },
   {
     "index": 82,
@@ -688,7 +688,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אנגרי_ברדס.jpg"
   },
   {
     "index": 86,
@@ -728,7 +728,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הנסיכה_שרלוטי.jpg"
   },
   {
     "index": 91,
@@ -744,7 +744,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הסגת_גבול.jpg"
   },
   {
     "index": 93,
@@ -752,7 +752,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ואחיות.jpg"
   },
   {
     "index": 94,
@@ -768,7 +768,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/טינקל.jpg"
   },
   {
     "index": 96,
@@ -784,7 +784,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ינשופים.jpg"
   },
   {
     "index": 98,
@@ -792,7 +792,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/סורח_המשי.jpg"
   },
   {
     "index": 99,
@@ -800,7 +800,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/סנדרלה.jpg"
   },
   {
     "index": 100,
@@ -808,7 +808,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/שלגיה.jpg"
+    "imageUrl": "Images/שלגיה_.jpg"
   },
   {
     "index": 101,
@@ -824,7 +824,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/תעלות_הבקבוק_המכושף.jpg"
   },
   {
     "index": 103,
@@ -888,7 +888,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/חיי_אחרים.jpg"
   },
   {
     "index": 111,
@@ -896,7 +896,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/כפתורים_ועוצמה.jpg"
   },
   {
     "index": 112,
@@ -904,7 +904,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/להבה_וצל.jpg"
   },
   {
     "index": 113,
@@ -912,7 +912,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ליל_כל_המכשפות.jpg"
   },
   {
     "index": 114,
@@ -920,7 +920,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מאחורי_עיניה.jpg"
   },
   {
     "index": 115,
@@ -928,7 +928,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ניצוץ_של_אור.jpg"
   },
   {
     "index": 116,
@@ -936,7 +936,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/עד_קצה_העולם.jpg"
   },
   {
     "index": 117,
@@ -944,7 +944,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/על_מקום_המצאה.jpg"
   },
   {
     "index": 118,
@@ -952,7 +952,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/קודם_כול_אהבה.jpg"
   },
   {
     "index": 119,
@@ -960,7 +960,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אינסטמבול.jpg"
   },
   {
     "index": 120,
@@ -968,7 +968,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אמא_של_הים.jpg"
   },
   {
     "index": 121,
@@ -976,7 +976,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אפשר_לגלות_לך_סוד.jpg"
   },
   {
     "index": 122,
@@ -984,7 +984,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/בארבע_ידיים.jpg"
   },
   {
     "index": 123,
@@ -992,7 +992,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/בחזרה_לטואיצי.jpg"
   },
   {
     "index": 124,
@@ -1000,7 +1000,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/גנבת_הספרים.jpg"
   },
   {
     "index": 125,
@@ -1008,7 +1008,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/דירה_בפריז.jpg"
   },
   {
     "index": 126,
@@ -1016,7 +1016,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/האישה_בחלון.jpg"
   },
   {
     "index": 127,
@@ -1024,7 +1024,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הגירוש_מן_הארמון.jpg"
   },
   {
     "index": 128,
@@ -1032,7 +1032,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/היינו_בני_מזל.jpg"
   },
   {
     "index": 129,
@@ -1040,7 +1040,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הילדה.jpg"
   },
   {
     "index": 130,
@@ -1048,7 +1048,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/המעגל.jpg"
   },
   {
     "index": 131,
@@ -1056,7 +1056,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מחול_ואפר.jpg"
   },
   {
     "index": 132,
@@ -1064,7 +1064,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/סודות_של_חיים_מופלאים.jpg"
   },
   {
     "index": 133,
@@ -1072,7 +1072,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/צעד_גדול_קטן.jpg"
   },
   {
     "index": 134,
@@ -1080,7 +1080,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/שטן_בירושלים.jpg"
   },
   {
     "index": 135,
@@ -1088,7 +1088,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/שמים_פתוחים.jpg"
   },
   {
     "index": 136,
@@ -1096,7 +1096,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/שמים_שאין_להם_חוף.jpg"
   },
   {
     "index": 137,
@@ -1104,7 +1104,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אובסייה_עיוורת.jpg"
   },
   {
     "index": 138,
@@ -1112,7 +1112,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אחו_פארק.jpg"
   },
   {
     "index": 139,
@@ -1120,7 +1120,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אחות_הסערה.jpg"
   },
   {
     "index": 140,
@@ -1128,7 +1128,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אל_שולחנו_של_הזאב.jpg"
   },
   {
     "index": 141,
@@ -1136,7 +1136,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אליסה_בארץ_המראה.jpg"
   },
   {
     "index": 142,
@@ -1144,7 +1144,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/בעקבות_הזומבים.jpg"
   },
   {
     "index": 143,
@@ -1152,7 +1152,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הממזרה_מאינסטמבול.jpg"
   },
   {
     "index": 144,
@@ -1160,7 +1160,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הסודות_ששמרנו.jpg"
   },
   {
     "index": 145,
@@ -1168,7 +1168,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הראמל.jpg"
   },
   {
     "index": 146,
@@ -1176,7 +1176,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/כל_ההערות_הנעלמות.jpg"
   },
   {
     "index": 147,
@@ -1184,7 +1184,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מוחו_של_רוצח.jpg"
   },
   {
     "index": 148,
@@ -1192,7 +1192,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מיתרי_הלב.jpg"
   },
   {
     "index": 149,
@@ -1200,7 +1200,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/רובין_הוד.jpg"
   },
   {
     "index": 150,
@@ -1208,7 +1208,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/רוחות_של_נייר.jpg"
   },
   {
     "index": 151,
@@ -1216,7 +1216,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/שלוש_משאלות.jpg"
   },
   {
     "index": 152,
@@ -1224,7 +1224,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/תעתוע.jpg"
   },
   {
     "index": 153,
@@ -1232,7 +1232,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אישה_מעבר_לים.jpg"
   },
   {
     "index": 154,
@@ -1240,7 +1240,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אםרסקים_לאדוני_הכומר.jpg"
   },
   {
     "index": 155,
@@ -1248,7 +1248,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אני_אף_אחד.jpg"
   },
   {
     "index": 156,
@@ -1256,7 +1256,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ביום_בו_תקרא_לי_אבא.jpg"
   },
   {
     "index": 157,
@@ -1264,7 +1264,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/האיש_האחרון_במגדל.jpg"
   },
   {
     "index": 158,
@@ -1272,7 +1272,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/האנשים_שאהבנו.jpg"
   },
   {
     "index": 159,
@@ -1280,7 +1280,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הדירה.jpg"
   },
   {
     "index": 160,
@@ -1288,7 +1288,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/החיים_החדשים_של_לילי_שפרד.jpg"
   },
   {
     "index": 161,
@@ -1296,7 +1296,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/המטופלת_השקטה.jpg"
   },
   {
     "index": 162,
@@ -1304,7 +1304,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/כל_נשימה.jpg"
   },
   {
     "index": 163,
@@ -1312,7 +1312,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/לוכד_הטיגרסים.jpg"
   },
   {
     "index": 164,
@@ -1320,7 +1320,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מה_שנטע_אוהבת.jpg"
   },
   {
     "index": 165,
@@ -1328,7 +1328,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מטרה_סופית.jpg"
   },
   {
     "index": 166,
@@ -1336,7 +1336,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/פנקס_הכתובות_האדום.jpg"
   },
   {
     "index": 167,
@@ -1344,7 +1344,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/צמאה_לך_נפשי.jpg"
   },
   {
     "index": 168,
@@ -1352,7 +1352,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/שמים_אדומים.jpg"
   },
   {
     "index": 169,
@@ -1360,7 +1360,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/שנה_בקזבלנקה.jpg"
   },
   {
     "index": 170,
@@ -1368,7 +1368,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/המנהרה.jpg"
   },
   {
     "index": 171,
@@ -1376,7 +1376,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/כל_אהבותיו_של_אליעזר_בן_יהודה.jpg"
   },
   {
     "index": 172,
@@ -1384,7 +1384,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/תקלה_בקצה_הגלקסיה.jpg"
   },
   {
     "index": 173,
@@ -1392,7 +1392,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/איטלקית_למתחילים.jpg"
   },
   {
     "index": 174,
@@ -1400,7 +1400,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/לנשום.jpg"
   },
   {
     "index": 175,
@@ -1408,7 +1408,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/יום_של_דיו.jpg"
   },
   {
     "index": 176,
@@ -1416,7 +1416,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מדרגות_אינסטמבול.jpg"
   },
   {
     "index": 177,
@@ -1424,7 +1424,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/חולות_נודדים.jpg"
   },
   {
     "index": 178,
@@ -1432,7 +1432,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/זמן_עבר.jpg"
   },
   {
     "index": 179,
@@ -1440,7 +1440,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/קודם_כל_אהבה.jpg"
   },
   {
     "index": 180,
@@ -1448,7 +1448,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/נפלאות_הטיפשות.jpg"
   },
   {
     "index": 181,
@@ -1456,7 +1456,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/קוטפי_הזכרונות.jpg"
   },
   {
     "index": 182,
@@ -1464,7 +1464,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אפקט_רוזי.jpg"
   },
   {
     "index": 183,
@@ -1472,7 +1472,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/עיר_של_מאגה_שחורה.jpg"
   },
   {
     "index": 184,
@@ -1480,7 +1480,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/שומר_המגדלור.jpg"
   },
   {
     "index": 185,
@@ -1488,7 +1488,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/והיום_אינו_כלה.jpg"
   },
   {
     "index": 186,
@@ -1496,7 +1496,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/למה_אני_קופץ.jpg"
   },
   {
     "index": 187,
@@ -1504,7 +1504,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/כולם_נופלים.jpg"
   },
   {
     "index": 188,
@@ -1512,7 +1512,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הרשימה_הסודית.jpg"
   },
   {
     "index": 189,
@@ -1520,7 +1520,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/13_סיבות.jpg"
   },
   {
     "index": 190,
@@ -1528,7 +1528,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אהבה_ברחוב_דבלין.jpg"
   },
   {
     "index": 191,
@@ -1536,7 +1536,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אהבה_בסמטית_ג'מיקה.jpg"
   },
   {
     "index": 192,
@@ -1544,7 +1544,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אהבה_ברחוב_סקוטלנד.jpg"
   },
   {
     "index": 193,
@@ -1552,7 +1552,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אהבה_בנתיב_וייטינגייט.jpg"
   },
   {
     "index": 194,
@@ -1560,7 +1560,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אחותי_רוצחת.jpg"
   },
   {
     "index": 195,
@@ -1568,7 +1568,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/רוני_ותום_חלק_1.jpg"
   },
   {
     "index": 196,
@@ -1576,7 +1576,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/האמת_שבפנים.jpg"
   },
   {
     "index": 197,
@@ -1584,7 +1584,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/האיש_על_החוף.jpg"
   },
   {
     "index": 198,
@@ -1592,7 +1592,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/תקתוק_בקומה_למטה.jpg"
   },
   {
     "index": 199,
@@ -1600,7 +1600,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/נשבעת.jpg"
   },
   {
     "index": 200,
@@ -1608,7 +1608,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/גברת_גם_וגפ.jpg"
   },
   {
     "index": 201,
@@ -1616,7 +1616,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/שקרן_יפיפה.jpg"
   },
   {
     "index": 202,
@@ -1624,7 +1624,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הזכות_לאהוב.jpg"
   },
   {
     "index": 203,
@@ -1632,7 +1632,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/רק_המעז.jpg"
   },
   {
     "index": 204,
@@ -1640,7 +1640,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/התחקיר.jpg"
   },
   {
     "index": 205,
@@ -1648,7 +1648,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/סירות_הדרקון.jpg"
   },
   {
     "index": 206,
@@ -1656,7 +1656,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/סיד.jpg"
   },
   {
     "index": 207,
@@ -1664,7 +1664,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/האחרות_האבודה.jpg"
   },
   {
     "index": 208,
@@ -1672,7 +1672,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/שקרים_הכרחיים.jpg"
   },
   {
     "index": 209,
@@ -1680,7 +1680,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מגע_של_חסד.jpg"
   },
   {
     "index": 210,
@@ -1688,7 +1688,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/המשרד_לאושר_עילאי.jpg"
   },
   {
     "index": 211,
@@ -1696,7 +1696,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/נסיכה_בתיאוריה.jpg"
   },
   {
     "index": 212,
@@ -1704,7 +1704,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מנהרות_של_שתיקה.jpg"
   },
   {
     "index": 213,
@@ -1712,7 +1712,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הגיע_הזמן_להדליק_את_הכוכבים.jpg"
   },
   {
     "index": 214,
@@ -1720,7 +1720,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/נפילה_חופשית.jpg"
   },
   {
     "index": 215,
@@ -1728,7 +1728,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/קראון.jpg"
   },
   {
     "index": 216,
@@ -1736,7 +1736,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ריפר.jpg"
   },
   {
     "index": 217,
@@ -1744,7 +1744,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/כאב.jpg"
   },
   {
     "index": 218,
@@ -1752,7 +1752,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/יריבים.jpg"
   },
   {
     "index": 219,
@@ -1760,7 +1760,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/בולי.jpg"
   },
   {
     "index": 220,
@@ -1768,7 +1768,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/עד_שבאת_את.jpg"
   },
   {
     "index": 221,
@@ -1776,7 +1776,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מחברת_האמת.jpg"
   },
   {
     "index": 222,
@@ -1784,7 +1784,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/משה_וגדיךהתעורר_עם_הספק.jpg"
   },
   {
     "index": 223,
@@ -1792,7 +1792,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מצור_בערפל.jpg"
   },
   {
     "index": 224,
@@ -1800,7 +1800,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הנעדרת.jpg"
   },
   {
     "index": 225,
@@ -1808,7 +1808,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/כי_את_שלי.jpg"
   },
   {
     "index": 226,
@@ -1816,7 +1816,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אל_תוך_האש.jpg"
   },
   {
     "index": 227,
@@ -1824,7 +1824,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ממלכת_הקבצנים.jpg"
   },
   {
     "index": 228,
@@ -1832,7 +1832,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ההבטחה_האחרונה.jpg"
   },
   {
     "index": 229,
@@ -1840,7 +1840,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מנצחת.jpg"
   },
   {
     "index": 230,
@@ -1848,7 +1848,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/השומרים.jpg"
   },
   {
     "index": 231,
@@ -1856,7 +1856,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/כלוב_הזהב.jpg"
   },
   {
     "index": 232,
@@ -1864,7 +1864,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ברוכה_הבא_לחיים_שלך.jpg"
   },
   {
     "index": 233,
@@ -1872,7 +1872,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מריה_על_המים.jpg"
   },
   {
     "index": 234,
@@ -1880,7 +1880,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/שירת_הברבור.jpg"
   },
   {
     "index": 235,
@@ -1888,7 +1888,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/בנות_הלילך.jpg"
   },
   {
     "index": 236,
@@ -1896,7 +1896,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/סודות_בית_השמפניה.jpg"
   },
   {
     "index": 237,
@@ -1904,7 +1904,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/תואכל_מעיל_תוכל.jpg"
   },
   {
     "index": 238,
@@ -1912,7 +1912,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/BLUE_MOON.jpg"
   },
   {
     "index": 239,
@@ -1920,7 +1920,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/האריה_האגדי.jpg"
   },
   {
     "index": 240,
@@ -1928,7 +1928,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/כאילו_אין_מחר.jpg"
   },
   {
     "index": 241,
@@ -1936,7 +1936,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/החיה_בבטן.jpg"
   },
   {
     "index": 242,
@@ -1944,7 +1944,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הלביאה_הלוחמת.jpg"
   },
   {
     "index": 243,
@@ -1952,7 +1952,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/לב_פלדה.jpg"
   },
   {
     "index": 244,
@@ -1960,7 +1960,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/לב_חצוי.jpg"
   },
   {
     "index": 245,
@@ -1968,7 +1968,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/לב_שקוף.jpg"
   },
   {
     "index": 246,
@@ -1976,7 +1976,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אהבה_אסורה.jpg"
   },
   {
     "index": 247,
@@ -1984,7 +1984,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אחרי_שהתנגשנו.jpg"
   },
   {
     "index": 248,
@@ -1992,7 +1992,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אחשי_שנפלנו.jpg"
   },
   {
     "index": 249,
@@ -2000,7 +2000,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אחרי_שהגענו_לסוף.jpg"
   },
   {
     "index": 250,
@@ -2008,7 +2008,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הגברת_ממלןן_ריץ.jpg"
   },
   {
     "index": 251,
@@ -2016,7 +2016,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/האריות_מסיציליה.jpg"
   },
   {
     "index": 252,
@@ -2024,7 +2024,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מלכת_יופי.jpg"
   },
   {
     "index": 253,
@@ -2032,7 +2032,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הוקי.jpg"
   },
   {
     "index": 254,
@@ -2040,7 +2040,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/סקיילר_שלי.jpg"
   },
   {
     "index": 255,
@@ -2048,7 +2048,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/סמנים_קטנים_של_אושר.jpg"
   },
   {
     "index": 256,
@@ -2056,7 +2056,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מה_המספר_שלך.jpg"
   },
   {
     "index": 257,
@@ -2064,7 +2064,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/כשיהיינו_בנות_יפ.jpg"
   },
   {
     "index": 258,
@@ -2072,7 +2072,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/המורדת.jpg"
   },
   {
     "index": 259,
@@ -2080,7 +2080,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אחרי_ש..."
   },
   {
     "index": 260,
@@ -2088,7 +2088,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/זכרות_מפינת_החדר_הסגלגל.jpg"
   },
   {
     "index": 261,
@@ -2096,7 +2096,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/קראון.jpg"
   },
   {
     "index": 262,
@@ -2104,7 +2104,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הלב_תמיד_זוכר.jpg"
   },
   {
     "index": 263,
@@ -2112,7 +2112,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אדם_זר.jpg"
   },
   {
     "index": 264,
@@ -2120,7 +2120,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/בית_התא_על_פס_המות.jpg"
   },
   {
     "index": 265,
@@ -2128,7 +2128,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/פרפר_במחסן.jpg"
   },
   {
     "index": 266,
@@ -2136,7 +2136,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/שלוש_משאלות.jpg"
   },
   {
     "index": 267,
@@ -2144,7 +2144,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הפתק.jpg"
   },
   {
     "index": 268,
@@ -2152,7 +2152,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הנדר.jpg"
   },
   {
     "index": 269,
@@ -2160,7 +2160,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הסודות_שהשארנו_מאחור.jpg"
   },
   {
     "index": 270,
@@ -2168,7 +2168,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/זה_נמס.jpg"
   },
   {
     "index": 271,
@@ -2176,7 +2176,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אף_אחד_לא_עוזב_את_פאלו_וולטו.jpg"
   },
   {
     "index": 272,
@@ -2184,7 +2184,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/איש_שטח.jpg"
   },
   {
     "index": 273,
@@ -2192,7 +2192,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/זה_זהיה_שם_קודם.jpg"
   },
   {
     "index": 274,
@@ -2200,7 +2200,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הדרך_אל_האור.jpg"
   },
   {
     "index": 275,
@@ -2208,7 +2208,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/בורדליין.jpg"
   },
   {
     "index": 276,
@@ -2216,7 +2216,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מאחורי_עייניה.jpg"
   },
   {
     "index": 277,
@@ -2224,7 +2224,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/בעלי_לא_בבית.jpg"
   },
   {
     "index": 278,
@@ -2232,7 +2232,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/תא_8.jpg"
   },
   {
     "index": 279,
@@ -2240,7 +2240,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/זמן_שאול.jpg"
   },
   {
     "index": 280,
@@ -2248,7 +2248,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/המלטות_מהחשיכה.jpg"
   },
   {
     "index": 281,
@@ -2256,7 +2256,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/להחליף_את_המים_של_הפרחים.jpg"
   },
   {
     "index": 282,
@@ -2264,7 +2264,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הסוד.jpg"
   },
   {
     "index": 283,
@@ -2272,7 +2272,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/המתריעים.jpg"
   },
   {
     "index": 284,
@@ -2280,7 +2280,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מטורםת.jpg"
   },
   {
     "index": 285,
@@ -2288,7 +2288,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/לכתוב_כמו_אלוהים.jpg"
   },
   {
     "index": 286,
@@ -2296,7 +2296,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ג'ינגי_2.jpg"
   },
   {
     "index": 287,
@@ -2304,7 +2304,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/יומני_החנונית.jpg"
   },
   {
     "index": 288,
@@ -2312,7 +2312,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/העדיות.jpg"
   },
   {
     "index": 289,
@@ -2320,7 +2320,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הערעור_האחרון.jpg"
   },
   {
     "index": 290,
@@ -2328,7 +2328,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/פרפר_בכפור.jpg"
   },
   {
     "index": 291,
@@ -2336,7 +2336,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/איש_הלחישות.jpg"
   },
   {
     "index": 292,
@@ -2344,7 +2344,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מסעודה.jpg"
   },
   {
     "index": 293,
@@ -2352,7 +2352,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/שירת_סרטני_הנהר.jpg"
   },
   {
     "index": 294,
@@ -2360,7 +2360,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מישהו_לאהוב.jpg"
   },
   {
     "index": 295,
@@ -2368,7 +2368,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/המחשבה_שניה.jpg"
   },
   {
     "index": 296,
@@ -2376,7 +2376,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הסודות_שהולכים_איתנו.jpg"
   },
   {
     "index": 297,
@@ -2384,7 +2384,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/שלוש_נשים.jpg"
   },
   {
     "index": 298,
@@ -2392,7 +2392,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/העלמה_והלילה.jpg"
   },
   {
     "index": 299,
@@ -2400,7 +2400,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אם_טובה_דיה.jpg"
   },
   {
     "index": 300,
@@ -2408,7 +2408,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אירוסין.jpg"
   },
   {
     "index": 301,
@@ -2416,7 +2416,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/לאהוב_בדרכי.jpg"
   },
   {
     "index": 302,
@@ -2424,7 +2424,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/חלומות_מתוקים.jpg"
   },
   {
     "index": 303,
@@ -2432,7 +2432,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ההימור.jpg"
   },
   {
     "index": 304,
@@ -2440,7 +2440,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/נסו_את_זה_בבית.jpg"
   },
   {
     "index": 305,
@@ -2448,7 +2448,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/נסו_את_זה_בבית_2.jpg"
   },
   {
     "index": 306,
@@ -2456,7 +2456,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/צעדים_קטנים_שך_אהבה.jpg"
   },
   {
     "index": 307,
@@ -2464,7 +2464,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/האחיות.jpg"
   },
   {
     "index": 308,
@@ -2472,7 +2472,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/תגובה_נגדית.jpg"
   },
   {
     "index": 309,
@@ -2480,7 +2480,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מה_שאבד_בזמן.jpg"
   },
   {
     "index": 310,
@@ -2488,7 +2488,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ארבע_מדברות_ואחצ_שותקת.jpg"
   },
   {
     "index": 311,
@@ -2496,7 +2496,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/לא_כזה_בחור_נחמד.jpg"
   },
   {
     "index": 312,
@@ -2504,7 +2504,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ארלינג_ינסן_ומסיכת_הדמים.jpg"
   },
   {
     "index": 313,
@@ -2512,7 +2512,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/עד_שאבק_ישקע.jpg"
   },
   {
     "index": 314,
@@ -2520,7 +2520,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הרג_קומנדוטורה.jpg"
   },
   {
     "index": 315,
@@ -2528,7 +2528,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/לחסל_את_הדרקון.jpg"
   },
   {
     "index": 316,
@@ -2536,7 +2536,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/לרדוף_את_הדרקון.jpg"
   },
   {
     "index": 317,
@@ -2544,7 +2544,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מרינה_של_הים.jpg"
   },
   {
     "index": 318,
@@ -2552,7 +2552,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/פני_השטח.jpg"
   },
   {
     "index": 319,
@@ -2560,7 +2560,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/חתן_הפרס.jpg"
   },
   {
     "index": 320,
@@ -2568,7 +2568,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הכפר_האבוד_.jpg"
   },
   {
     "index": 321,
@@ -2576,7 +2576,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/סימן_שאלה_הוא_חצי_לב_.jpg"
   },
   {
     "index": 322,
@@ -2584,7 +2584,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/החיים_הכפולים_של_לידיה_בירד_.jpg"
   },
   {
     "index": 323,
@@ -2592,7 +2592,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ילד_יחיד_.jpg"
   },
   {
     "index": 324,
@@ -2600,7 +2600,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אשת_סודו_.jpg"
   },
   {
     "index": 325,
@@ -2608,7 +2608,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הענק_הקבור_.jpg"
   },
   {
     "index": 326,
@@ -2616,7 +2616,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/לרשת_את_אידית_.jpg"
   },
   {
     "index": 327,
@@ -2624,7 +2624,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אדמה_אמריקאית.jpg"
   },
   {
     "index": 328,
@@ -2632,7 +2632,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מגלן.jpg"
   },
   {
     "index": 329,
@@ -2640,7 +2640,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/כל_הפרחים_בפריז.jpg"
   },
   {
     "index": 330,
@@ -2648,7 +2648,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/המרחק_בינך_לביני.jpg"
   },
   {
     "index": 331,
@@ -2656,7 +2656,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/המיהה_שברירית.jpg"
   },
   {
     "index": 332,
@@ -2664,7 +2664,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ברידג'רטון-_הדוכס_ואני.jpg"
   },
   {
     "index": 333,
@@ -2672,7 +2672,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/כל_דבר_קטן.jpg"
   },
   {
     "index": 334,
@@ -2680,7 +2680,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/התהום_הפעורה_בנינו.jpg"
   },
   {
     "index": 335,
@@ -2688,7 +2688,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/בלתי_שבירים.jpg"
   },
   {
     "index": 336,
@@ -2696,7 +2696,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/למצוא_אותן_מתות.jpg"
   },
   {
     "index": 337,
@@ -2704,7 +2704,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/כמעט_מושלם.jpg"
   },
   {
     "index": 338,
@@ -2712,7 +2712,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/תחתוך_ותברח.jpg"
   },
   {
     "index": 339,
@@ -2720,7 +2720,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ההתחחיבות.jpg"
   },
   {
     "index": 340,
@@ -2728,7 +2728,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מספרי_המוות.jpg"
   },
   {
     "index": 341,
@@ -2736,7 +2736,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/יום_אחד_תפסיד.jpg"
   },
   {
     "index": 342,
@@ -2744,7 +2744,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/נעדרים_קרים.jpg"
   },
   {
     "index": 343,
@@ -2752,7 +2752,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הנמלטת_האחורה.jpg"
   },
   {
     "index": 344,
@@ -2760,7 +2760,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הנוסע.jpg"
   },
   {
     "index": 345,
@@ -2768,7 +2768,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הירושה.jpg"
   },
   {
     "index": 346,
@@ -2776,7 +2776,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/איידהו.jpg"
   },
   {
     "index": 347,
@@ -2784,7 +2784,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/פריטת_מיתרי_הלב.jpg"
   },
   {
     "index": 348,
@@ -2792,7 +2792,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/זרות.jpg"
   },
   {
     "index": 349,
@@ -2800,7 +2800,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/סוד_העננים.jpg"
   },
   {
     "index": 350,
@@ -2808,7 +2808,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הטיול.jpg"
   },
   {
     "index": 351,
@@ -2816,7 +2816,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/כמו_ריקוד_אבק.jpg"
   },
   {
     "index": 352,
@@ -2824,7 +2824,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אמנית_החינה.jpg"
   },
   {
     "index": 353,
@@ -2832,7 +2832,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מכתבים_מלוכלכים.jpg"
   },
   {
     "index": 354,
@@ -2840,7 +2840,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הילדות_האבודות_של_פריז.jpg"
   },
   {
     "index": 355,
@@ -2848,7 +2848,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/חטיפה.jpg"
   },
   {
     "index": 356,
@@ -2856,7 +2856,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אם_כבר_מדברים_על_זה.jpg"
   },
   {
     "index": 357,
@@ -2864,7 +2864,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/האיש_שלמו_בווהאן.jpg"
   },
   {
     "index": 358,
@@ -2872,7 +2872,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אחות_הצלילים.jpg"
   },
   {
     "index": 359,
@@ -2880,7 +2880,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/התעוררות.jpg"
   },
   {
     "index": 360,
@@ -2888,7 +2888,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אחות_הפנינים.jpg"
   },
   {
     "index": 361,
@@ -2896,7 +2896,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הבית_ההולנדי.jpg"
   },
   {
     "index": 362,
@@ -2904,7 +2904,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/בשירות_המוסד.jpg"
   },
   {
     "index": 363,
@@ -2912,7 +2912,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/שיחה_לא_מזוהה.jpg"
   },
   {
     "index": 364,
@@ -2920,7 +2920,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/התמימים.jpg"
   },
   {
     "index": 365,
@@ -2928,7 +2928,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/האי_שלא_יתואר.jpg"
   },
   {
     "index": 366,
@@ -2936,7 +2936,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/להילחם_בפיתוי.jpg"
   },
   {
     "index": 367,
@@ -2944,7 +2944,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/גמביט_המלכה.jpg"
   },
   {
     "index": 368,
@@ -2952,7 +2952,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/חיי_השקר_של_המבוגר.jpg"
   },
   {
     "index": 369,
@@ -2960,7 +2960,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הסוםרת_מאושווויץ.jpg"
   },
   {
     "index": 370,
@@ -2968,7 +2968,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/כניעה_מתוקה.jpg"
   },
   {
     "index": 371,
@@ -2976,7 +2976,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/לילה_ארוך_בפריז.jpg"
   },
   {
     "index": 372,
@@ -2984,7 +2984,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אל_תשקר_לי.jpg"
   },
   {
     "index": 373,
@@ -2992,7 +2992,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אנחנו_נגדכם.jpg"
   },
   {
     "index": 374,
@@ -3000,7 +3000,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ילד_בולע_יקום.jpg"
   },
   {
     "index": 375,
@@ -3008,7 +3008,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אן_מאבונלי.jpg"
   },
   {
     "index": 376,
@@ -3016,7 +3016,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/פלא.jpg"
   },
   {
     "index": 377,
@@ -3024,7 +3024,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הארי_פוטר_שנה_ג.jpg"
   },
   {
     "index": 378,
@@ -3032,7 +3032,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הרומן_המצרי.jpg"
   },
   {
     "index": 379,
@@ -3040,7 +3040,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מכתבים_לתיאו.jpg"
   },
   {
     "index": 380,
@@ -3048,7 +3048,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/פוליאנה.jpg"
   },
   {
     "index": 381,
@@ -3056,7 +3056,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הסיפור_שאינו_נגמר.jpg"
   },
   {
     "index": 382,
@@ -3064,7 +3064,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הילד_הטוסקני.jpg"
   },
   {
     "index": 383,
@@ -3072,7 +3072,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/המטרה_מקדשת.jpg"
   },
   {
     "index": 384,
@@ -3080,7 +3080,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/בנערה_בציור.jpg"
   },
   {
     "index": 385,
@@ -3088,7 +3088,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/המושבעים.jpg"
   },
   {
     "index": 386,
@@ -3096,7 +3096,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/האישה_בזהב.jpg"
   },
   {
     "index": 387,
@@ -3104,7 +3104,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הסוד_האחרון_של_איימי_סנואו.jpg"
   },
   {
     "index": 388,
@@ -3112,7 +3112,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/עידן_האור.jpg"
   },
   {
     "index": 389,
@@ -3120,7 +3120,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הוכחה_אדומה.jpg"
   },
   {
     "index": 390,
@@ -3128,7 +3128,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/האי_של_נשות_הים.jpg"
   },
   {
     "index": 391,
@@ -3136,7 +3136,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/זוהר_כמו_גן_עדן.jpg"
   },
   {
     "index": 392,
@@ -3144,7 +3144,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הבעל_של_שתינו.jpg"
   },
   {
     "index": 393,
@@ -3152,7 +3152,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/תליון_אבן_הירקן.jpg"
   },
   {
     "index": 394,
@@ -3160,7 +3160,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ברית_דמים.jpg"
   },
   {
     "index": 395,
@@ -3168,7 +3168,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/תא_לחץ.jpg"
   },
   {
     "index": 396,
@@ -3176,7 +3176,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הסערה.jpg"
   },
   {
     "index": 397,
@@ -3184,7 +3184,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/התאונה.jpg"
   },
   {
     "index": 398,
@@ -3192,7 +3192,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הכדור_השלישי.jpg"
   },
   {
     "index": 399,
@@ -3200,7 +3200,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הכלה_המתחזה.jpg"
   },
   {
     "index": 400,
@@ -3208,7 +3208,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/המצאת_הכנפיים.jpg"
   },
   {
     "index": 401,
@@ -3216,7 +3216,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הקרבות_האבודים_של_לאונרדו_ומיכאנגלו.jpg"
   },
   {
     "index": 402,
@@ -3224,7 +3224,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/בת_ברית.jpg"
   },
   {
     "index": 403,
@@ -3232,7 +3232,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/בוגד_משלנו.jpg"
   },
   {
     "index": 404,
@@ -3240,7 +3240,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/בת_העשן_והעצם.jpg"
   },
   {
     "index": 405,
@@ -3248,7 +3248,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/כנגד_כל_האויבים.jpg"
   },
   {
     "index": 406,
@@ -3256,7 +3256,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/המלכה_היחפה.jpg"
   },
   {
     "index": 407,
@@ -3264,7 +3264,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/פרויקט_אליס.jpg"
   },
   {
     "index": 408,
@@ -3272,7 +3272,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מגילת_זכויות_הירח.jpg"
   },
   {
     "index": 409,
@@ -3280,7 +3280,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/כשהגלים_מתחזקים.jpg"
   },
   {
     "index": 410,
@@ -3288,7 +3288,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/כביש_מספר_1.jpg"
   },
   {
     "index": 411,
@@ -3296,7 +3296,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/דיקטטור.jpg"
   },
   {
     "index": 412,
@@ -3304,7 +3304,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אסייתים_עשירים_מטורפים.jpg"
   },
   {
     "index": 413,
@@ -3312,7 +3312,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הרולטה_של_דה_נירו.jpg"
   },
   {
     "index": 414,
@@ -3320,7 +3320,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/100_חורפים.jpg"
   },
   {
     "index": 415,
@@ -3328,7 +3328,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מי_אלמה.jpg"
   },
   {
     "index": 416,
@@ -3336,7 +3336,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/המתיקות_שבפיתוי.jpg"
   },
   {
     "index": 417,
@@ -3344,7 +3344,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/להתנגד_לפיתוי.jpg"
   },
   {
     "index": 418,
@@ -3352,7 +3352,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/דמדומים.jpg"
   },
   {
     "index": 419,
@@ -3360,7 +3360,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מולד_הירח.jpg"
   },
   {
     "index": 420,
@@ -3368,7 +3368,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ליקוי_חמה.jpg"
   },
   {
     "index": 421,
@@ -3376,7 +3376,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/שחר_מפציע.jpg"
   },
   {
     "index": 422,
@@ -3384,7 +3384,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/וירג'ין_ריבר.jpg"
   },
   {
     "index": 423,
@@ -3392,7 +3392,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ברידג'רטון_הוויקונט_שאהב_אותי.jpg"
   },
   {
     "index": 424,
@@ -3400,7 +3400,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/בית_הפגודה.jpg"
   },
   {
     "index": 425,
@@ -3408,7 +3408,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/גבר_נכנס_בפרדס.jpg"
   },
   {
     "index": 426,
@@ -3416,7 +3416,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אחד_ועוד_אחד.jpg"
   },
   {
     "index": 427,
@@ -3424,7 +3424,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/כבר_לא_זרים.jpg"
   },
   {
     "index": 428,
@@ -3432,7 +3432,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/להתנגד.jpg"
   },
   {
     "index": 429,
@@ -3440,7 +3440,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/לחשוף.jpg"
   },
   {
     "index": 430,
@@ -3448,7 +3448,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/רשימת_המוזמנים.jpg"
   },
   {
     "index": 431,
@@ -3456,7 +3456,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/להשביע_את_הדרכון.jpg"
   },
   {
     "index": 432,
@@ -3464,7 +3464,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הקנוניה_נגד_אמריקה.jpg"
   },
   {
     "index": 433,
@@ -3472,7 +3472,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מי_שהייתי_פעם.jpg"
   },
   {
     "index": 434,
@@ -3480,7 +3480,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/האלמנה_השחורנ.jpg"
   },
   {
     "index": 435,
@@ -3488,7 +3488,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/תנו_לי_להסביר.jpg"
   },
   {
     "index": 436,
@@ -3496,7 +3496,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/חסד_ספרדי.jpg"
   },
   {
     "index": 437,
@@ -3504,7 +3504,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/פנינת_המזרח.jpg"
   },
   {
     "index": 438,
@@ -3512,7 +3512,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/משחקי_הכס.jpg"
   },
   {
     "index": 439,
@@ -3520,7 +3520,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הסוכן.jpg"
   },
   {
     "index": 440,
@@ -3528,7 +3528,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/צוערים.jpg"
   },
   {
     "index": 441,
@@ -3536,7 +3536,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/התחאורמה_של_התוכי.jpg"
   },
   {
     "index": 442,
@@ -3544,7 +3544,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/שתיקה_פרסית.jpg"
   },
   {
     "index": 443,
@@ -3552,7 +3552,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ילד_44.jpg"
   },
   {
     "index": 444,
@@ -3560,7 +3560,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/לתפוס_רוצח.jpg"
   },
   {
     "index": 445,
@@ -3568,7 +3568,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/גדר_חיה.jpg"
   },
   {
     "index": 446,
@@ -3576,7 +3576,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/עורבני_חקיין.jpg"
   },
   {
     "index": 447,
@@ -3584,7 +3584,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/נתלקחות.jpg"
   },
   {
     "index": 448,
@@ -3592,7 +3592,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/משחקי_הרעב.jpg"
   },
   {
     "index": 449,
@@ -3600,7 +3600,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/בחורות_כמונו.jpg"
   },
   {
     "index": 450,
@@ -3608,7 +3608,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אחות_השמש.jpg"
   },
   {
     "index": 451,
@@ -3616,7 +3616,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/איתו_זה_נגמר.jpg"
   },
   {
     "index": 452,
@@ -3624,7 +3624,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הנשים.jpg"
   },
   {
     "index": 453,
@@ -3632,7 +3632,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/כובעים_של_זכוכית.jpg"
   },
   {
     "index": 454,
@@ -3640,7 +3640,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מרשעת.jpg"
   },
   {
     "index": 455,
@@ -3648,7 +3648,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/דם_במים.jpg"
   },
   {
     "index": 456,
@@ -3656,7 +3656,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/להבות_הגורל.jpg"
   },
   {
     "index": 457,
@@ -3664,7 +3664,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/חנה_סנש.jpg"
   },
   {
     "index": 458,
@@ -3672,7 +3672,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/בישופ.jpg"
   },
   {
     "index": 459,
@@ -3680,7 +3680,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מוות_על_הדנה.jpg"
   },
   {
     "index": 460,
@@ -3688,7 +3688,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הכחול_שבעינייך.jpg"
   },
   {
     "index": 461,
@@ -3696,7 +3696,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מלכה_בפיננסים.jpg"
   },
   {
     "index": 462,
@@ -3704,7 +3704,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ארבע_הרוחות.jpg"
   },
   {
     "index": 463,
@@ -3712,7 +3712,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/במקרה_הלא_סביר.jpg"
   },
   {
     "index": 464,
@@ -3720,7 +3720,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מוות_שימושי_מאוד.jpg"
   },
   {
     "index": 465,
@@ -3728,7 +3728,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/דקה_לחצות.jpg"
   },
   {
     "index": 466,
@@ -3736,7 +3736,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אבני_הלב.jpg"
   },
   {
     "index": 467,
@@ -3744,7 +3744,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הבהוב_באפלה.jpg"
   },
   {
     "index": 468,
@@ -3752,7 +3752,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/פורעת_חוק.jpg"
   },
   {
     "index": 469,
@@ -3760,7 +3760,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/רילוקשיין.jpg"
   },
   {
     "index": 470,
@@ -3768,7 +3768,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מופוואדאת.jpg"
   },
   {
     "index": 471,
@@ -3776,7 +3776,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הרכבת_האחרונה_ללונדון.jpg"
   },
   {
     "index": 472,
@@ -3784,7 +3784,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מעשה_בלב_שבור.jpg"
   },
   {
     "index": 473,
@@ -3792,7 +3792,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/שבת_שבעה_באוקטובר.jpg"
   },
   {
     "index": 474,
@@ -3800,7 +3800,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הרצוג.jpg"
   },
   {
     "index": 475,
@@ -3808,7 +3808,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/משחקי_הרעב_בלדה_לנחשים_וציפורי_שיר.jpg"
   },
   {
     "index": 476,
@@ -3816,7 +3816,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/סניור_ונטורה.jpg"
   },
   {
     "index": 477,
@@ -3824,7 +3824,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/לוקו_ונטורה.jpg"
   },
   {
     "index": 478,
@@ -3832,7 +3832,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/התרסקות.jpg"
   },
   {
     "index": 479,
@@ -3840,7 +3840,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/זיכרונות_אחרי_מותי.jpg"
   },
   {
     "index": 480,
@@ -3848,7 +3848,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/החטוף.jpg"
   },
   {
     "index": 481,
@@ -3856,7 +3856,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/החיים_הם_רק_תקופה.jpg"
   },
   {
     "index": 482,
@@ -3864,7 +3864,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/החיים_הם_תקופה_קשה.jpg"
   },
   {
     "index": 483,
@@ -3872,7 +3872,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אבא_בא.jpg"
   },
   {
     "index": 484,
@@ -3880,7 +3880,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מבוא_לניצחון.jpg"
   },
   {
     "index": 485,
@@ -3888,7 +3888,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/פאוורלס.jpg"
   },
   {
     "index": 486,
@@ -3896,7 +3896,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/התנפצות.jpg"
   },
   {
     "index": 487,
@@ -3904,7 +3904,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הנשים_של_לואיזיאנה.jpg"
   },
   {
     "index": 488,
@@ -3912,7 +3912,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מועדון_בריאר.jpg"
   },
   {
     "index": 489,
@@ -3920,7 +3920,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/בדרך_לאדינבורו.jpg"
   },
   {
     "index": 490,
@@ -3928,7 +3928,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/החיה_שבפנים.jpg"
   },
   {
     "index": 491,
@@ -3936,7 +3936,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/היפה_מכולן.jpg"
   },
   {
     "index": 492,
@@ -3944,7 +3944,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אורסולה.jpg"
   },
   {
     "index": 493,
@@ -3952,7 +3952,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אדונית_הרשה.jpg"
   },
   {
     "index": 494,
@@ -3960,7 +3960,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/האלכימאי.jpg"
   },
   {
     "index": 495,
@@ -3968,7 +3968,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/בנתיב_הפלא.jpg"
   },
   {
     "index": 496,
@@ -3976,7 +3976,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הפינה_השקטה.jpg"
   },
   {
     "index": 497,
@@ -3984,7 +3984,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/המסע_אל_החופש.jpg"
   },
   {
     "index": 498,
@@ -3992,7 +3992,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אהבה_עיקשת.jpg"
   },
   {
     "index": 499,
@@ -4000,7 +4000,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/פרוייקט_מלכה_אדומה.jpg"
   },
   {
     "index": 500,
@@ -4008,7 +4008,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/לב_רעב.jpg"
   },
   {
     "index": 501,
@@ -4016,7 +4016,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/שום_דבר_אינו_שחור.jpg"
   },
   {
     "index": 502,
@@ -4024,7 +4024,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/שדות_הלב.jpg"
   },
   {
     "index": 503,
@@ -4032,7 +4032,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ירנה.jpg"
   },
   {
     "index": 504,
@@ -4040,7 +4040,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/החדרנית.jpg"
   },
   {
     "index": 505,
@@ -4048,7 +4048,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/אחות_הירח.jpg"
   },
   {
     "index": 506,
@@ -4056,7 +4056,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/בשבילה_גיבורים_עפים.jpg"
   },
   {
     "index": 507,
@@ -4064,7 +4064,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ההיסטוריה_של_המחר.jpg"
   },
   {
     "index": 508,
@@ -4072,7 +4072,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/לאהוב_את_החיים.jpg"
   },
   {
     "index": 509,
@@ -4080,7 +4080,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/עמוק_בעזה.jpg"
   },
   {
     "index": 510,
@@ -4088,7 +4088,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הייתם_קהל_נפלא.jpg"
   },
   {
     "index": 511,
@@ -4096,7 +4096,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/סיבוב_המפתח.jpg"
   },
   {
     "index": 512,
@@ -4104,7 +4104,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/חמש_אצבעות_על_היעד_-_חלק_א.jpg"
   },
   {
     "index": 513,
@@ -4112,7 +4112,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/חמש_אצבעות_על_היעד_-_חלק_ב.jpg"
   },
   {
     "index": 514,
@@ -4120,7 +4120,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/המסע_לגן_עדן.jpg"
   },
   {
     "index": 515,
@@ -4128,7 +4128,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/משחק_קבוצתי_-_חלק_א.jpg"
   },
   {
     "index": 516,
@@ -4136,7 +4136,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/שבויה_במשימה.jpg"
   },
   {
     "index": 517,
@@ -4144,7 +4144,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/גן_הלבנדר.jpg"
   },
   {
     "index": 518,
@@ -4152,7 +4152,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/פיוריר.jpg"
   },
   {
     "index": 519,
@@ -4160,7 +4160,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/משדר_מלחמה.jpg"
   },
   {
     "index": 520,
@@ -4168,7 +4168,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/לוותר_על_הכול.jpg"
   },
   {
     "index": 521,
@@ -4176,7 +4176,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/להתגבר_על_הכול.jpg"
   },
   {
     "index": 522,
@@ -4184,7 +4184,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/738_ימים_בשבי_החמאס.jpg"
   },
   {
     "index": 523,
@@ -4192,7 +4192,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/למלוך_על_הכל.jpg"
   },
   {
     "index": 524,
@@ -4200,7 +4200,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/בנות_הספיר.jpg"
   },
   {
     "index": 525,
@@ -4208,7 +4208,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/לסלוך_על_הכל.jpg"
   },
   {
     "index": 526,
@@ -4216,7 +4216,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/לשלות_על_הכל.jpg"
   },
   {
     "index": 527,
@@ -4224,7 +4224,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/להיאבק_על_הכל.jpg"
   },
   {
     "index": 528,
@@ -4232,7 +4232,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/להילחם_על_הכול.jpg"
   },
   {
     "index": 529,
@@ -4240,7 +4240,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/חנות_השמלות_של_גברת_שלטון.jpg"
   },
   {
     "index": 530,
@@ -4248,7 +4248,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/האקרית.jpg"
   },
   {
     "index": 531,
@@ -4256,7 +4256,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/המעצבת.jpg"
   },
   {
     "index": 532,
@@ -4264,7 +4264,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/להתאהב_ולהישאר_בחיים.jpg"
   },
   {
     "index": 533,
@@ -4272,7 +4272,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/העיקר_לקום_לבוקר_חדש.jpg"
   },
   {
     "index": 534,
@@ -4280,7 +4280,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מאומד_מדי.jpg"
   },
   {
     "index": 535,
@@ -4288,7 +4288,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/כשנראה_אותך_שוב.jpg"
   },
   {
     "index": 536,
@@ -4296,7 +4296,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ברדגרטון_לסר_פיליפ_באהבה.jpg"
   },
   {
     "index": 537,
@@ -4304,7 +4304,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/חוטים_שקופים.jpg"
   },
   {
     "index": 538,
@@ -4320,7 +4320,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/איש_המוסד_בלב_טהרן.jpg"
   },
   {
     "index": 540,
@@ -4328,7 +4328,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/little_women.jpg"
   },
   {
     "index": 541,
@@ -4336,7 +4336,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/בית_המרגלים.jpg"
   },
   {
     "index": 542,
@@ -4344,7 +4344,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מרים_גבה.jpg"
   },
   {
     "index": 543,
@@ -4352,7 +4352,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הופלס.jpg"
   },
   {
     "index": 544,
@@ -4360,7 +4360,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הבלשים_משוק_הרוחות.jpg"
   },
   {
     "index": 545,
@@ -4368,7 +4368,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ארמון_הנייר_.jpg"
   },
   {
     "index": 546,
@@ -4376,7 +4376,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הספר_האדום.jpg"
   },
   {
     "index": 547,
@@ -4384,7 +4384,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הציידת.jpg"
   },
   {
     "index": 548,
@@ -4392,7 +4392,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/נשמות.jpg"
   },
   {
     "index": 549,
@@ -4400,7 +4400,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הבציר_האבוד.jpg"
   },
   {
     "index": 550,
@@ -4408,7 +4408,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מישהו_מסתכל_אליך.jpg"
   },
   {
     "index": 551,
@@ -4416,7 +4416,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/מעבר_לספק_סביר.jpg"
   },
   {
     "index": 552,
@@ -4424,7 +4424,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/ילדת_הפרפרים.jpg"
   },
   {
     "index": 553,
@@ -4432,6 +4432,6 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "Images/cover_not_found.jpg"
+    "imageUrl": "Images/הדרקון_הראשון_שלי.jpg"
   }
 ];
