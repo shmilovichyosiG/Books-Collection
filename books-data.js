@@ -1,4 +1,6 @@
-// קובץ זה נוצר אוטומטית על-ידי build.js מתוך data.xlsx. אין לערוך ידנית - השינויים יימחקו בבנייה הבאה.
+// This file is generated automatically by build2.js.
+// Do not edit manually.
+
 const BOOKS_DATA = [
   {
     "index": 0,
@@ -6,7 +8,7 @@ const BOOKS_DATA = [
     "style": "רומן רומנטי",
     "author": "פאולינה סיימונס",
     "publisher": "מודן",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 1,
@@ -14,7 +16,7 @@ const BOOKS_DATA = [
     "style": "רומן רומנטי",
     "author": "היידי מק'לפלין",
     "publisher": "ידיעות ספרים",
-    "imageUrl": "../Images/בלדה_לאהבת_נעורי.jpg"
+    "imageUrl": "Images/בלדה_לאהבת_נעורי.jpg"
   },
   {
     "index": 2,
@@ -22,7 +24,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 3,
@@ -30,7 +32,7 @@ const BOOKS_DATA = [
     "style": "מתח ופעולה",
     "author": "אלכס גרליס",
     "publisher": "ידיעות ספרים",
-    "imageUrl": "../Images/הטובה_שבמרגלות.jpg"
+    "imageUrl": "Images/הטובה_שבמרגלות.jpg"
   },
   {
     "index": 4,
@@ -38,7 +40,7 @@ const BOOKS_DATA = [
     "style": "רומן רומנטי",
     "author": "קרי לונסדייל",
     "publisher": "אהבות הוצאה לאור",
-    "imageUrl": "../Images/הסודות_שהולכים_איתנו.jpg"
+    "imageUrl": "Images/הסודות_שהולכים_איתנו.jpg"
   },
   {
     "index": 5,
@@ -46,7 +48,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "קארין ארד",
     "publisher": "ידיעות ספרים",
-    "imageUrl": "../Images/יש_אלוהים.jpg"
+    "imageUrl": "Images/יש_אלוהים.jpg"
   },
   {
     "index": 6,
@@ -54,7 +56,7 @@ const BOOKS_DATA = [
     "style": "מתח ופעולה",
     "author": "ד\"ב ג'ון",
     "publisher": "כתר",
-    "imageUrl": "../Images/כוכב_הצפון.jpg"
+    "imageUrl": "Images/כוכב_הצפון.jpg"
   },
   {
     "index": 7,
@@ -62,7 +64,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "פלג כהן",
     "publisher": "ספרי ניב",
-    "imageUrl": "../Images/לונלי.jpg"
+    "imageUrl": "Images/לונלי.jpg"
   },
   {
     "index": 8,
@@ -70,7 +72,7 @@ const BOOKS_DATA = [
     "style": "מתח ופעולה",
     "author": "ענבל אלמוזנינו",
     "publisher": "ספרות שנוגעת",
-    "imageUrl": "../Images/מוסר_לבן.jpg"
+    "imageUrl": "Images/מוסר_לבן.jpg"
   },
   {
     "index": 9,
@@ -78,7 +80,7 @@ const BOOKS_DATA = [
     "style": "ראשית קריאה ונוער צעיר",
     "author": "פמלה טרוורס",
     "publisher": "ידיעות ספרים",
-    "imageUrl": "../Images/מרי_פופינס.jpg"
+    "imageUrl": "Images/מרי_פופינס.jpg"
   },
   {
     "index": 10,
@@ -86,7 +88,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 11,
@@ -94,7 +96,7 @@ const BOOKS_DATA = [
     "style": "רומן רומנטי",
     "author": "ניקולס ספארקס",
     "publisher": "מודן",
-    "imageUrl": "../Images/שניים_שניים.jpg"
+    "imageUrl": "Images/שניים_שניים.jpg"
   },
   {
     "index": 12,
@@ -102,7 +104,7 @@ const BOOKS_DATA = [
     "style": "עיון, היסטוריה ופוליטיקה",
     "author": "פרופ' דוד פסיג",
     "publisher": "ידיעות ספרים",
-    "imageUrl": "../Images/2048.jpg"
+    "imageUrl": "Images/2048.jpg"
   },
   {
     "index": 13,
@@ -110,7 +112,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 14,
@@ -118,7 +120,7 @@ const BOOKS_DATA = [
     "style": "רומן רומנטי",
     "author": "נטשה סולומונס",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/אהבה_באחוזת_טיינפורד.jpg"
+    "imageUrl": "Images/אהבה_באחוזת_טיינפורד.jpg"
   },
   {
     "index": 15,
@@ -126,7 +128,7 @@ const BOOKS_DATA = [
     "style": "סיפורת",
     "author": "דאינה צ'וויאנו",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/אי_האהבה_לאין_קיץ.jpg"
+    "imageUrl": "Images/אי_האהבה_לאין_קיץ.jpg"
   },
   {
     "index": 16,
@@ -134,7 +136,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "אלדד כהן",
     "publisher": "ידיעות ספרים",
-    "imageUrl": "../Images/אמא_קומי.jpg"
+    "imageUrl": "Images/אמא_קומי.jpg"
   },
   {
     "index": 17,
@@ -142,7 +144,7 @@ const BOOKS_DATA = [
     "style": "ראשית קריאה ונוער צעיר",
     "author": "קנדי גארד",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 18,
@@ -150,7 +152,7 @@ const BOOKS_DATA = [
     "style": "פעוטות וילדי גן",
     "author": "דתיה בן דור",
     "publisher": "מודן",
-    "imageUrl": "../Images/גרגרים_וזרעונים.jpg"
+    "imageUrl": "Images/גרגרים_וזרעונים.jpg"
   },
   {
     "index": 19,
@@ -158,7 +160,7 @@ const BOOKS_DATA = [
     "style": "רומן רומנטי",
     "author": "בת׳ אולירי",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/דירת_שותפים.jpg"
+    "imageUrl": "Images/דירת_שותפים.jpg"
   },
   {
     "index": 20,
@@ -166,7 +168,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "רפל נדאל",
     "publisher": "ידיעות ספרים",
-    "imageUrl": "../Images/הבן_האחרון.jpg"
+    "imageUrl": "Images/הבן_האחרון.jpg"
   },
   {
     "index": 21,
@@ -174,7 +176,7 @@ const BOOKS_DATA = [
     "style": "רומן רומנטי",
     "author": "גולסרין בודאיג'אולו",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/הכלה_מאיסטמבול.jpg"
+    "imageUrl": "Images/הכלה_מאיסטמבול.jpg"
   },
   {
     "index": 22,
@@ -182,7 +184,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 23,
@@ -190,7 +192,7 @@ const BOOKS_DATA = [
     "style": "מתח ופעולה",
     "author": "מייקל קונלי",
     "publisher": "מודן",
-    "imageUrl": "../Images/המפענחים.jpg"
+    "imageUrl": "Images/המפענחים.jpg"
   },
   {
     "index": 24,
@@ -198,7 +200,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "גרטשן ברג",
     "publisher": "תכלת",
-    "imageUrl": "../Images/המרכזנית.jpg"
+    "imageUrl": "Images/המרכזנית.jpg"
   },
   {
     "index": 25,
@@ -206,7 +208,7 @@ const BOOKS_DATA = [
     "style": "רומן רומנטי",
     "author": "ניקולא בארו",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/המרכיבים_הסודיים_של_האהבה.jpg"
+    "imageUrl": "Images/המרכיבים_הסודיים_של_האהבה.jpg"
   },
   {
     "index": 26,
@@ -214,7 +216,7 @@ const BOOKS_DATA = [
     "style": "רומן רומנטי",
     "author": "סמנתה יאנג",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/המשחק_ממשיך.jpg"
+    "imageUrl": "Images/המשחק_ממשיך.jpg"
   },
   {
     "index": 27,
@@ -222,7 +224,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 28,
@@ -230,7 +232,7 @@ const BOOKS_DATA = [
     "style": "מתח ופעולה",
     "author": "אדיבה גפן",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/הנערה_שלא_היתה.jpg"
+    "imageUrl": "Images/הנערה_שלא_היתה.jpg"
   },
   {
     "index": 29,
@@ -238,7 +240,7 @@ const BOOKS_DATA = [
     "style": "רומן רומנטי",
     "author": "אליסון ריצ'מן",
     "publisher": "ידיעות ספרים",
-    "imageUrl": "../Images/הציור_האחרון_של_ואן_גוך.jpg"
+    "imageUrl": "Images/הציור_האחרון_של_ואן_גוך.jpg"
   },
   {
     "index": 30,
@@ -246,7 +248,7 @@ const BOOKS_DATA = [
     "style": "מתח ופעולה",
     "author": "אדיראן מקינטי",
     "publisher": "מתר",
-    "imageUrl": "../Images/השרשרת.jpg"
+    "imageUrl": "Images/השרשרת.jpg"
   },
   {
     "index": 31,
@@ -254,7 +256,7 @@ const BOOKS_DATA = [
     "style": "נוער בוגר",
     "author": "דיוויד לוויתן, ג'ון גרין",
     "publisher": "מודן",
-    "imageUrl": "../Images/וויל_גרייסון.jpg"
+    "imageUrl": "Images/וויל_גרייסון.jpg"
   },
   {
     "index": 32,
@@ -262,7 +264,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "גבריאל בן שמחון",
     "publisher": "ידיעות ספרים",
-    "imageUrl": "../Images/זרים.jpg"
+    "imageUrl": "Images/זרים.jpg"
   },
   {
     "index": 33,
@@ -270,7 +272,7 @@ const BOOKS_DATA = [
     "style": "מתח ופעולה",
     "author": "ג'וזף פיינדר",
     "publisher": "ידיעות ספרים",
-    "imageUrl": "../Images/חשד.jpg"
+    "imageUrl": "Images/חשד.jpg"
   },
   {
     "index": 34,
@@ -278,7 +280,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "בטי מחמודי",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/לא_בלי_בתי.jpg"
+    "imageUrl": "Images/לא_בלי_בתי.jpg"
   },
   {
     "index": 35,
@@ -286,7 +288,7 @@ const BOOKS_DATA = [
     "style": "רומן רומנטי",
     "author": "קולין הובר",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/מושלם.jpg"
+    "imageUrl": "Images/מושלם.jpg"
   },
   {
     "index": 36,
@@ -294,7 +296,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "לויד ג'ונס",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/מסטר_פיפ.jpg"
+    "imageUrl": "Images/מסטר_פיפ.jpg"
   },
   {
     "index": 37,
@@ -302,7 +304,7 @@ const BOOKS_DATA = [
     "style": "עיון, היסטוריה ופוליטיקה",
     "author": "מתי פרידמן",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/מסתערבים.jpg"
+    "imageUrl": "Images/מסתערבים.jpg"
   },
   {
     "index": 38,
@@ -310,7 +312,7 @@ const BOOKS_DATA = [
     "style": "ילדים ונוער",
     "author": "דתיה בן-דור",
     "publisher": "מודן",
-    "imageUrl": "../Images/מעבר_חציה_המצאה_נהדרת.jpg"
+    "imageUrl": "Images/מעבר_חציה_המצאה_נהדרת.jpg"
   },
   {
     "index": 39,
@@ -318,7 +320,7 @@ const BOOKS_DATA = [
     "style": "מתח ופעולה",
     "author": "ענבל אלמוזנינו",
     "publisher": "ספרות שנוגעת",
-    "imageUrl": "../Images/מצפון_שחור.jpg"
+    "imageUrl": "Images/מצפון_שחור.jpg"
   },
   {
     "index": 40,
@@ -326,7 +328,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "ג'וג'ו מויס",
     "publisher": "ידיעות ספרים",
-    "imageUrl": "../Images/מתנת_כוכבים.jpg"
+    "imageUrl": "Images/מתנת_כוכבים.jpg"
   },
   {
     "index": 41,
@@ -334,7 +336,7 @@ const BOOKS_DATA = [
     "style": "רומן רומנטי",
     "author": "הלן הואנג",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/נוסחת_הנשיקה.jpg"
+    "imageUrl": "Images/נוסחת_הנשיקה.jpg"
   },
   {
     "index": 42,
@@ -342,7 +344,7 @@ const BOOKS_DATA = [
     "style": "ילדים",
     "author": "דתיה בן-דור",
     "publisher": "מודן",
-    "imageUrl": "../Images/נכון_לא_נכון.jpg"
+    "imageUrl": "Images/נכון_לא_נכון.jpg"
   },
   {
     "index": 43,
@@ -350,7 +352,7 @@ const BOOKS_DATA = [
     "style": "רומן רומנטי",
     "author": "יהודית צפורי",
     "publisher": "בוקטיק",
-    "imageUrl": "../Images/נפשות_תאומות.jpg"
+    "imageUrl": "Images/נפשות_תאומות.jpg"
   },
   {
     "index": 44,
@@ -358,7 +360,7 @@ const BOOKS_DATA = [
     "style": "סיפורת",
     "author": "קרטיס סיטנפלד",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/נשואה_לאמריקה.jpg"
+    "imageUrl": "Images/נשואה_לאמריקה.jpg"
   },
   {
     "index": 45,
@@ -366,7 +368,7 @@ const BOOKS_DATA = [
     "style": "סיפורת",
     "author": "ביאטריס ויליאמס",
     "publisher": "תכלת",
-    "imageUrl": "../Images/נשות_הקיץ.jpg"
+    "imageUrl": "Images/נשות_הקיץ.jpg"
   },
   {
     "index": 46,
@@ -374,7 +376,7 @@ const BOOKS_DATA = [
     "style": "מתח ופעולה",
     "author": "שרה פינבורו",
     "publisher": "דני ספרים",
-    "imageUrl": "../Images/נשכחים.jpg"
+    "imageUrl": "Images/נשכחים.jpg"
   },
   {
     "index": 47,
@@ -382,7 +384,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "סג'אל בדאני",
     "publisher": "מודן",
-    "imageUrl": "../Images/סודה_של_מספרת_הסיפורים.jpg"
+    "imageUrl": "Images/סודה_של_מספרת_הסיפורים.jpg"
   },
   {
     "index": 48,
@@ -390,7 +392,7 @@ const BOOKS_DATA = [
     "style": "ילדים",
     "author": "הרטלי סטפניה לאונרדי",
     "publisher": "קוראים",
-    "imageUrl": "../Images/ספורי_אנדרסון.jpg"
+    "imageUrl": "Images/ספורי_אנדרסון.jpg"
   },
   {
     "index": 49,
@@ -398,7 +400,7 @@ const BOOKS_DATA = [
     "style": "רומן רומנטי",
     "author": "אליזבת גילברט",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/עיר_של_בנות.jpg"
+    "imageUrl": "Images/עיר_של_בנות.jpg"
   },
   {
     "index": 50,
@@ -406,7 +408,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "ג'פרי ארצ'ר",
     "publisher": "מודן",
-    "imageUrl": "../Images/עץ_או_פלי.jpg"
+    "imageUrl": "Images/עץ_או_פלי.jpg"
   },
   {
     "index": 51,
@@ -414,7 +416,7 @@ const BOOKS_DATA = [
     "style": "מתח ופעולה",
     "author": "לינה בנגטסדוטר",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 52,
@@ -422,7 +424,7 @@ const BOOKS_DATA = [
     "style": "מתח ופעולה",
     "author": "אגתה כריסטי",
     "publisher": "עם עובד",
-    "imageUrl": "../Images/רציחות_האלפבית.jpg"
+    "imageUrl": "Images/רציחות_האלפבית.jpg"
   },
   {
     "index": 53,
@@ -430,7 +432,7 @@ const BOOKS_DATA = [
     "style": "רומן רומנטי",
     "author": "אמבר קלי",
     "publisher": "אופוריה",
-    "imageUrl": "../Images/שדות_הלב.jpg"
+    "imageUrl": "Images/שדות_הלב.jpg"
   },
   {
     "index": 54,
@@ -438,7 +440,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "עירית לינור",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/שתי_שלגיות.jpg"
+    "imageUrl": "Images/שתי_שלגיות.jpg"
   },
   {
     "index": 55,
@@ -446,7 +448,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "מיכל חזון",
     "publisher": "ידיעות ספרים",
-    "imageUrl": "../Images/בית_הסודות.jpg"
+    "imageUrl": "Images/בית_הסודות.jpg"
   },
   {
     "index": 56,
@@ -454,7 +456,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "ג'ין פנזיוול",
     "publisher": "תכלת",
-    "imageUrl": "../Images/בנותיו_של_שומר_המגדלור.jpg"
+    "imageUrl": "Images/בנותיו_של_שומר_המגדלור.jpg"
   },
   {
     "index": 57,
@@ -462,7 +464,7 @@ const BOOKS_DATA = [
     "style": "מתח ופעולה",
     "author": "יפתח אשכנזי",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/גיא_בן_הינום.jpg"
+    "imageUrl": "Images/גיא_בן_הינום.jpg"
   },
   {
     "index": 58,
@@ -470,7 +472,7 @@ const BOOKS_DATA = [
     "style": "מתח ופעולה",
     "author": "שהרה בלאו",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/האחרות.jpg"
+    "imageUrl": "Images/האחרות.jpg"
   },
   {
     "index": 59,
@@ -478,7 +480,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "עמנואל ברגמן",
     "publisher": "ידיעות ספרים",
-    "imageUrl": "../Images/האשליה.jpg"
+    "imageUrl": "Images/האשליה.jpg"
   },
   {
     "index": 60,
@@ -486,7 +488,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "אלנה פרנטה",
     "publisher": "הקיבוץ המאוחד",
-    "imageUrl": "../Images/החברה_הגאונה.jpg"
+    "imageUrl": "Images/החברה_הגאונה.jpg"
   },
   {
     "index": 61,
@@ -494,7 +496,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "ריס רייצל",
     "publisher": "תכלת",
-    "imageUrl": "../Images/החיים_החדשים_של_לילי_שפרד.jpg"
+    "imageUrl": "Images/החיים_החדשים_של_לילי_שפרד.jpg"
   },
   {
     "index": 62,
@@ -502,7 +504,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 63,
@@ -510,7 +512,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "הולי רינגלנד",
     "publisher": "תכלת",
-    "imageUrl": "../Images/הפרחים_האבודים_של_אליס_הארט.jpg"
+    "imageUrl": "Images/הפרחים_האבודים_של_אליס_הארט.jpg"
   },
   {
     "index": 64,
@@ -518,7 +520,7 @@ const BOOKS_DATA = [
     "style": "ביוגרפיה",
     "author": "רמי ונורית הרפז",
     "publisher": "מטר",
-    "imageUrl": "../Images/השבוי_ואשת_השבוי.jpg"
+    "imageUrl": "Images/השבוי_ואשת_השבוי.jpg"
   },
   {
     "index": 65,
@@ -526,7 +528,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 66,
@@ -534,7 +536,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "רון לשם",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/יפים_כמו_שהיינו.jpg"
+    "imageUrl": "Images/יפים_כמו_שהיינו.jpg"
   },
   {
     "index": 67,
@@ -542,7 +544,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "קלייר פישר",
     "publisher": "ידיעות ספרים",
-    "imageUrl": "../Images/כל_הדברים_הטובים.jpg"
+    "imageUrl": "Images/כל_הדברים_הטובים.jpg"
   },
   {
     "index": 68,
@@ -550,7 +552,7 @@ const BOOKS_DATA = [
     "style": "מד\"ב ופנטזיה",
     "author": "קאזואו‏ אישיגורו",
     "publisher": "הקיבוץ המאוחד",
-    "imageUrl": "../Images/לעולם_אל_תיתני_לי_ללכת.jpg"
+    "imageUrl": "Images/לעולם_אל_תיתני_לי_ללכת.jpg"
   },
   {
     "index": 69,
@@ -558,7 +560,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "רם אורן",
     "publisher": "קשת",
-    "imageUrl": "../Images/מגדת_העתידות.jpg"
+    "imageUrl": "Images/מגדת_העתידות.jpg"
   },
   {
     "index": 70,
@@ -566,7 +568,7 @@ const BOOKS_DATA = [
     "style": "מתח ופעולה",
     "author": "גיליאן פלין",
     "publisher": "ידיעות ספרים",
-    "imageUrl": "../Images/מקומות_אפלים.jpg"
+    "imageUrl": "Images/מקומות_אפלים.jpg"
   },
   {
     "index": 71,
@@ -574,7 +576,7 @@ const BOOKS_DATA = [
     "style": "רומן רומנטי",
     "author": "ארין וואט",
     "publisher": "ספרות שנוגעת",
-    "imageUrl": "../Images/נסיך_שבור.jpg"
+    "imageUrl": "Images/נסיך_שבור.jpg"
   },
   {
     "index": 72,
@@ -582,7 +584,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 73,
@@ -590,7 +592,7 @@ const BOOKS_DATA = [
     "style": "רומן רומנטי",
     "author": "מיכל שלו",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/סדקים_בזהב.jpg"
+    "imageUrl": "Images/סדקים_בזהב.jpg"
   },
   {
     "index": 74,
@@ -598,7 +600,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "פאם ג'נוף",
     "publisher": "ידיעות ספרים",
-    "imageUrl": "../Images/סיפורו_של_יתום.jpg"
+    "imageUrl": "Images/סיפורו_של_יתום.jpg"
   },
   {
     "index": 75,
@@ -606,7 +608,7 @@ const BOOKS_DATA = [
     "style": "נוער בוגר",
     "author": "פיליפ ריב",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/ערי_טרף.jpg"
+    "imageUrl": "Images/ערי_טרף.jpg"
   },
   {
     "index": 76,
@@ -614,7 +616,7 @@ const BOOKS_DATA = [
     "style": "מתח ופעולה",
     "author": "דרור משעני",
     "publisher": "אחוזת בית",
-    "imageUrl": "../Images/שלוש.jpg"
+    "imageUrl": "Images/שלוש.jpg"
   },
   {
     "index": 77,
@@ -622,7 +624,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "יערה שחורי",
     "publisher": "כתר",
-    "imageUrl": "../Images/שנות_העשרים.jpg"
+    "imageUrl": "Images/שנות_העשרים.jpg"
   },
   {
     "index": 78,
@@ -630,7 +632,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "דויד פואנקינוס",
     "publisher": "כתר",
-    "imageUrl": "../Images/שתי_האחיות.jpg"
+    "imageUrl": "Images/שתי_האחיות.jpg"
   },
   {
     "index": 79,
@@ -638,7 +640,7 @@ const BOOKS_DATA = [
     "style": "מתח ופעולה",
     "author": "ס\"ק טרמיין",
     "publisher": "כתר",
-    "imageUrl": "../Images/תאומות_הקרח.jpg"
+    "imageUrl": "Images/תאומות_הקרח.jpg"
   },
   {
     "index": 80,
@@ -646,7 +648,7 @@ const BOOKS_DATA = [
     "style": "מתח ופעולה",
     "author": "גיום מוסו",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/תציל_אותי.jpg"
+    "imageUrl": "Images/תציל_אותי.jpg"
   },
   {
     "index": 81,
@@ -654,7 +656,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 82,
@@ -662,7 +664,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "בת' אנדרדאון",
     "publisher": "ידיעות ספרים",
-    "imageUrl": "../Images/אחותו_של_צייד_המכשפות.jpg"
+    "imageUrl": "Images/אחותו_של_צייד_המכשפות.jpg"
   },
   {
     "index": 83,
@@ -670,7 +672,7 @@ const BOOKS_DATA = [
     "style": "ראשית קריאה ונוער צעיר",
     "author": "ג'ני ולנטיין",
     "publisher": "ידיעות ספרים",
-    "imageUrl": "../Images/איגי_ואני.jpg"
+    "imageUrl": "Images/איגי_ואני.jpg"
   },
   {
     "index": 84,
@@ -678,7 +680,7 @@ const BOOKS_DATA = [
     "style": "מתח ופעולה",
     "author": "בראד פרקס",
     "publisher": "ידיעות ספרים",
-    "imageUrl": "../Images/אל_תגיד_כלום.jpg"
+    "imageUrl": "Images/אל_תגיד_כלום.jpg"
   },
   {
     "index": 85,
@@ -686,7 +688,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 86,
@@ -694,7 +696,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "אבי גרפינקל",
     "publisher": "ידיעות ספרים",
-    "imageUrl": "../Images/בן_יחיד.jpg"
+    "imageUrl": "Images/בן_יחיד.jpg"
   },
   {
     "index": 87,
@@ -702,7 +704,7 @@ const BOOKS_DATA = [
     "style": "ראשית קריאה ונוער צעיר",
     "author": "וייל אורי",
     "publisher": "מודן",
-    "imageUrl": "../Images/דוקטור_מולקולה.jpg"
+    "imageUrl": "Images/דוקטור_מולקולה.jpg"
   },
   {
     "index": 88,
@@ -710,7 +712,7 @@ const BOOKS_DATA = [
     "style": "ראשית קריאה ונוער צעיר",
     "author": "ריינה טלגמאייר",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/דרמה.jpg"
+    "imageUrl": "Images/דרמה.jpg"
   },
   {
     "index": 89,
@@ -718,7 +720,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "הוראס מקוי",
     "publisher": "אחוזת בית",
-    "imageUrl": "../Images/הם_יורים_גם_בסוסים.jpg"
+    "imageUrl": "Images/הם_יורים_גם_בסוסים.jpg"
   },
   {
     "index": 90,
@@ -726,7 +728,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 91,
@@ -734,7 +736,7 @@ const BOOKS_DATA = [
     "style": "רומן רומנטי",
     "author": "אנה הופ",
     "publisher": "ידיעות ספרים",
-    "imageUrl": "../Images/הנשף.jpg"
+    "imageUrl": "Images/הנשף.jpg"
   },
   {
     "index": 92,
@@ -742,7 +744,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 93,
@@ -750,7 +752,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 94,
@@ -758,7 +760,7 @@ const BOOKS_DATA = [
     "style": "ראשית קריאה ונוער צעיר",
     "author": "ריינה טלגמאייר",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/חיוך.jpg"
+    "imageUrl": "Images/חיוך.jpg"
   },
   {
     "index": 95,
@@ -766,7 +768,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 96,
@@ -774,7 +776,7 @@ const BOOKS_DATA = [
     "style": "פעוטות וילדי גן",
     "author": "עדי זליכוב-רלוי",
     "publisher": "ידיעות ספרים",
-    "imageUrl": "../Images/ילדג.jpg"
+    "imageUrl": "Images/ילדג.jpg"
   },
   {
     "index": 97,
@@ -782,7 +784,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 98,
@@ -790,7 +792,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 99,
@@ -798,7 +800,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 100,
@@ -806,7 +808,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 101,
@@ -814,7 +816,7 @@ const BOOKS_DATA = [
     "style": "ילדים",
     "author": "טל ניצן",
     "publisher": "אחוזת בית",
-    "imageUrl": "../Images/שקספיר_לפני_השינה.jpg"
+    "imageUrl": "Images/שקספיר_לפני_השינה.jpg"
   },
   {
     "index": 102,
@@ -822,7 +824,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 103,
@@ -830,7 +832,7 @@ const BOOKS_DATA = [
     "style": "מתח ופעולה",
     "author": "הרלן קובן",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/אל_תעזוב.jpg"
+    "imageUrl": "Images/אל_תעזוב.jpg"
   },
   {
     "index": 104,
@@ -838,7 +840,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "סיימון צ'ואה ג'ונסון",
     "publisher": "כתר",
-    "imageUrl": "../Images/בית_הרעיות.jpg"
+    "imageUrl": "Images/בית_הרעיות.jpg"
   },
   {
     "index": 105,
@@ -846,7 +848,7 @@ const BOOKS_DATA = [
     "style": "בריאות",
     "author": "אסים מלהוטרה, דונל או'ניל",
     "publisher": "תכלת",
-    "imageUrl": "../Images/דיאטה_21_ימים.jpg"
+    "imageUrl": "Images/דיאטה_21_ימים.jpg"
   },
   {
     "index": 106,
@@ -854,7 +856,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "קריסטין הרמל",
     "publisher": "מודן",
-    "imageUrl": "../Images/הדירה_ברחוב_אמלי.jpg"
+    "imageUrl": "Images/הדירה_ברחוב_אמלי.jpg"
   },
   {
     "index": 107,
@@ -862,7 +864,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "סו מונק קיד",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/החיים_הסודיים_של_הדבורים.jpg"
+    "imageUrl": "Images/החיים_הסודיים_של_הדבורים.jpg"
   },
   {
     "index": 108,
@@ -870,7 +872,7 @@ const BOOKS_DATA = [
     "style": "מתח ופעולה",
     "author": "דניאל סילבה",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/המרגל_האנגלי.jpg"
+    "imageUrl": "Images/המרגל_האנגלי.jpg"
   },
   {
     "index": 109,
@@ -878,7 +880,7 @@ const BOOKS_DATA = [
     "style": "פרוזה מקור",
     "author": "מרגרט אטווד",
     "publisher": "כנרת זמורה דביר",
-    "imageUrl": "../Images/והלב_הולך_אחרון.jpg"
+    "imageUrl": "Images/והלב_הולך_אחרון.jpg"
   },
   {
     "index": 110,
@@ -886,71 +888,71 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 111,
     "name": "כפתורים  ועוצמה",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "רומן אירוטי",
+    "author": "פנלופה סקיי",
+    "publisher": "מלודי",
+    "imageUrl": "Images/כפתורים_ועוצמה.jpg"
   },
   {
     "index": 112,
     "name": "להבה וצל",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "רומן רומנטי",
+    "author": "פאני רצר",
+    "publisher": "יהלומים",
+    "imageUrl": "Images/להבה_וצל.jpg"
   },
   {
     "index": 113,
     "name": "ליל כל המכשפות",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "מד\"ב ופנטזיה",
+    "author": "דבורה הרקנס",
+    "publisher": "כנרת זמורה דביר",
+    "imageUrl": "Images/ליל_כל_המכשפות.jpg"
   },
   {
     "index": 114,
     "name": "מאחורי עיניה",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "מתח ופעולה",
+    "author": "שרה פינבורו",
+    "publisher": "ידיעות ספרים",
+    "imageUrl": "Images/מאחורי_עיניה.jpg"
   },
   {
     "index": 115,
     "name": "ניצוץ של אור",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "פרוזה מקור",
+    "author": "ג'ודי פיקו",
+    "publisher": "כנרת זמורה דביר",
+    "imageUrl": "Images/ניצוץ_של_אור.jpg"
   },
   {
     "index": 116,
     "name": "עד קצה העולם",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "מד\"ב ופנטזיה",
+    "author": "שי בן אור",
+    "publisher": "ספרי ניב",
+    "imageUrl": "Images/עד_קצה_העולם.jpg"
   },
   {
     "index": 117,
-    "name": "על מקום המצאה",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "name": "על מקום הימצאה",
+    "style": "פרוזה מקור",
+    "author": "תמר קפלנסקי",
+    "publisher": "כתר",
+    "imageUrl": "Images/על_מקום_הימצאה.jpg"
   },
   {
     "index": 118,
     "name": "קודם כול אהבה",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "פרוזה מקור",
+    "author": "אמילי גיפין",
+    "publisher": "ידיעות ספרים",
+    "imageUrl": "Images/קודם_כול_אהבה.jpg"
   },
   {
     "index": 119,
@@ -958,151 +960,151 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 120,
     "name": "אמא של הים",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "פרוזה מקור",
+    "author": "דונטלה די פייטרנטוניו",
+    "publisher": "כנרת זמורה דביר",
+    "imageUrl": "Images/אמא_של_הים.jpg"
   },
   {
     "index": 121,
     "name": "אפשר לגלות לך סוד",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "רומן רומנטי",
+    "author": "סופי קינסלה",
+    "publisher": "מודן",
+    "imageUrl": "Images/אפשר_לגלות_לך_סוד.jpg"
   },
   {
     "index": 122,
     "name": "בארבע ידיים",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "מתח ופעולה",
+    "author": "ענבל אלמוזנינו",
+    "publisher": "ספרות שנוגעת",
+    "imageUrl": "Images/בארבע_ידיים.jpg"
   },
   {
     "index": 123,
-    "name": "בחזרה לטואיצי",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "name": "בחזרה מטואיצי",
+    "style": "פרוזה מקור",
+    "author": "יוסי גינסברג",
+    "publisher": "כנרת זמורה דביר",
+    "imageUrl": "Images/בחזרה_מטואיצי.jpg"
   },
   {
     "index": 124,
     "name": "גנבת הספרים",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "פרוזה מקור",
+    "author": "מרקוס זוסאק",
+    "publisher": "מודן",
+    "imageUrl": "Images/גנבת_הספרים.jpg"
   },
   {
     "index": 125,
     "name": "דירה בפריז",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "מתח ופעולה",
+    "author": "גיום מוסו",
+    "publisher": "כנרת זמורה דביר",
+    "imageUrl": "Images/דירה_בפריז.jpg"
   },
   {
     "index": 126,
     "name": "האישה בחלון",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "מתח ופעולה",
+    "author": "א. ג'. פין",
+    "publisher": "כנרת זמורה דביר",
+    "imageUrl": "Images/האישה_בחלון.jpg"
   },
   {
     "index": 127,
     "name": "הגירוש מן הארמון",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "פרוזה מקור",
+    "author": "רם אורן",
+    "publisher": "קשת",
+    "imageUrl": "Images/הגירוש_מן_הארמון.jpg"
   },
   {
     "index": 128,
     "name": "היינו בני מזל",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "שואה",
+    "author": "ג'ורג'יה האנטר",
+    "publisher": "מטר",
+    "imageUrl": "Images/היינו_בני_מזל.jpg"
   },
   {
     "index": 129,
     "name": "הילדה",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "מתח ופעולה",
+    "author": "פיונה ברטון",
+    "publisher": "ידיעות ספרים",
+    "imageUrl": "Images/הילדה.jpg"
   },
   {
     "index": 130,
     "name": "המעגל",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "מד\"ב ופנטזיה",
+    "author": "שרה ב. אלפגרן, מאטס סטרנדברג",
+    "publisher": "סלע ספרים",
+    "imageUrl": "Images/המעגל.jpg"
   },
   {
     "index": 131,
     "name": "מחול ואפר",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "שואה",
+    "author": "איימי הרמון",
+    "publisher": "אהבות הוצאה לאור",
+    "imageUrl": "Images/מחול_ואפר.jpg"
   },
   {
     "index": 132,
     "name": "סודות של חיים מופלאים",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "פרוזה מקור",
+    "author": "סוזן מייסנר",
+    "publisher": "מודן",
+    "imageUrl": "Images/סודות_של_חיים_מופלאים.jpg"
   },
   {
     "index": 133,
     "name": "צעד גדול קטן",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "פרוזה מקור",
+    "author": "ג'ודי פיקו",
+    "publisher": "כנרת זמורה דביר",
+    "imageUrl": "Images/צעד_גדול_קטן.jpg"
   },
   {
     "index": 134,
     "name": "שטן בירושלים",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "פרוזה מקור",
+    "author": "נעמי רגן",
+    "publisher": "כנרת זמורה דביר",
+    "imageUrl": "Images/שטן_בירושלים.jpg"
   },
   {
     "index": 135,
     "name": "שמים פתוחים",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "פרוזה מקור",
+    "author": "רונה רמון",
+    "publisher": "ידיעות ספרים",
+    "imageUrl": "Images/שמים_פתוחים.jpg"
   },
   {
     "index": 136,
-    "name": "שמים שאין להם חוף",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "name": "שמיים שאין להם חוף",
+    "style": "פרוזה מקור",
+    "author": "יפעת ארליך",
+    "publisher": "כנרת זמורה דביר",
+    "imageUrl": "Images/שמיים_שאין_להם_חוף.jpg"
   },
   {
     "index": 137,
-    "name": "אובסייה עיוורת",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "name": "אובססיה עיוורת",
+    "style": "רומן רומנטי",
+    "author": "אלה פרנק",
+    "publisher": "מלודי",
+    "imageUrl": "Images/אובססיה_עיוורת.jpg"
   },
   {
     "index": 138,
@@ -1110,23 +1112,23 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 139,
     "name": "אחות הסערה",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "רומן רומנטי",
+    "author": "לוסינדה ריילי",
+    "publisher": "מודן",
+    "imageUrl": "Images/אחות_הסערה.jpg"
   },
   {
     "index": 140,
     "name": "אל שולחנו של הזאב",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "פרוזה מקור",
+    "author": "רוזלה פוסטורינו",
+    "publisher": "ידיעות ספרים",
+    "imageUrl": "Images/אל_שולחנו_של_הזאב.jpg"
   },
   {
     "index": 141,
@@ -1134,7 +1136,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 142,
@@ -1142,23 +1144,23 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 143,
-    "name": "הממזרה מאינסטמבול",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "name": "הממזרה מאינסטנבול",
+    "style": "פרוזה מקור",
+    "author": "אליף שאפאק",
+    "publisher": "מחברות לספרות",
+    "imageUrl": "Images/הממזרה_מאינסטנבול.jpg"
   },
   {
     "index": 144,
     "name": "הסודות ששמרנו",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "פרוזה מקור",
+    "author": "לארה פרסקוט",
+    "publisher": "מודן",
+    "imageUrl": "Images/הסודות_ששמרנו.jpg"
   },
   {
     "index": 145,
@@ -1166,31 +1168,31 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 146,
-    "name": "כל ההערות הנעלמות",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "name": "כל הנערות הנעלמות",
+    "style": "מתח ופעולה",
+    "author": "מייגן מירנדה",
+    "publisher": "קוראים הוצאת ספרים",
+    "imageUrl": "Images/כל_הנערות_הנעלמות.jpg"
   },
   {
     "index": 147,
     "name": "מוחו של רוצח",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "מתח ופעולה",
+    "author": "מייק עומר",
+    "publisher": "כנרת זמורה דביר",
+    "imageUrl": "Images/מוחו_של_רוצח.jpg"
   },
   {
     "index": 148,
     "name": "מיתרי הלב",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "רומן רומנטי",
+    "author": "יהודית צפורי",
+    "publisher": "בוקטיק",
+    "imageUrl": "Images/מיתרי_הלב.jpg"
   },
   {
     "index": 149,
@@ -1198,47 +1200,47 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 150,
     "name": "רוחות של נייר",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "מתח ופעולה",
+    "author": "ג'וליה היברלין",
+    "publisher": "כתר",
+    "imageUrl": "Images/רוחות_של_נייר.jpg"
   },
   {
     "index": 151,
     "name": "שלוש משאלות",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "פרוזה מקור",
+    "author": "ליאן מוריארטי",
+    "publisher": "כנרת זמורה דביר",
+    "imageUrl": "Images/שלוש_משאלות.jpg"
   },
   {
     "index": 152,
     "name": "תעתוע",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "רומן רומנטי",
+    "author": "קולין הובר",
+    "publisher": "כנרת זמורה דביר",
+    "imageUrl": "Images/תעתוע.jpg"
   },
   {
     "index": 153,
     "name": "אישה מעבר לים",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "style": "פרוזה מקור",
+    "author": "שרית ישי־לוי",
+    "publisher": "מודן",
+    "imageUrl": "Images/אישה_מעבר_לים.jpg"
   },
   {
     "index": 154,
-    "name": "אםרסקים לאדוני הכומר",
-    "style": "",
-    "author": "",
-    "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "name": "אפרסקים לאדוני הכומר",
+    "style": "פרוזה מקור",
+    "author": "ג'ואן האריס",
+    "publisher": "כנרת זמורה דביר",
+    "imageUrl": "Images/אפרסקים_לאדוני_הכומר.jpg"
   },
   {
     "index": 155,
@@ -1246,7 +1248,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 156,
@@ -1254,7 +1256,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 157,
@@ -1262,7 +1264,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 158,
@@ -1270,7 +1272,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 159,
@@ -1278,7 +1280,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 160,
@@ -1286,7 +1288,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/החיים_החדשים_של_לילי_שפרד.jpg"
+    "imageUrl": "Images/החיים_החדשים_של_לילי_שפרד.jpg"
   },
   {
     "index": 161,
@@ -1294,7 +1296,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 162,
@@ -1302,7 +1304,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 163,
@@ -1310,7 +1312,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 164,
@@ -1318,7 +1320,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 165,
@@ -1326,7 +1328,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 166,
@@ -1334,7 +1336,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 167,
@@ -1342,7 +1344,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 168,
@@ -1350,7 +1352,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 169,
@@ -1358,7 +1360,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 170,
@@ -1366,7 +1368,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 171,
@@ -1374,7 +1376,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 172,
@@ -1382,7 +1384,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 173,
@@ -1390,7 +1392,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 174,
@@ -1398,7 +1400,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 175,
@@ -1406,7 +1408,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 176,
@@ -1414,7 +1416,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 177,
@@ -1422,7 +1424,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 178,
@@ -1430,7 +1432,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 179,
@@ -1438,7 +1440,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 180,
@@ -1446,7 +1448,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 181,
@@ -1454,7 +1456,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 182,
@@ -1462,7 +1464,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 183,
@@ -1470,7 +1472,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 184,
@@ -1478,7 +1480,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 185,
@@ -1486,7 +1488,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 186,
@@ -1494,7 +1496,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 187,
@@ -1502,7 +1504,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 188,
@@ -1510,7 +1512,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 189,
@@ -1518,7 +1520,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 190,
@@ -1526,7 +1528,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 191,
@@ -1534,7 +1536,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 192,
@@ -1542,7 +1544,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 193,
@@ -1550,7 +1552,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 194,
@@ -1558,7 +1560,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 195,
@@ -1566,7 +1568,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 196,
@@ -1574,7 +1576,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 197,
@@ -1582,7 +1584,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 198,
@@ -1590,7 +1592,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 199,
@@ -1598,7 +1600,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 200,
@@ -1606,7 +1608,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 201,
@@ -1614,7 +1616,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 202,
@@ -1622,7 +1624,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 203,
@@ -1630,7 +1632,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 204,
@@ -1638,7 +1640,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 205,
@@ -1646,7 +1648,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 206,
@@ -1654,7 +1656,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 207,
@@ -1662,7 +1664,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 208,
@@ -1670,7 +1672,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 209,
@@ -1678,7 +1680,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 210,
@@ -1686,7 +1688,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 211,
@@ -1694,7 +1696,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 212,
@@ -1702,7 +1704,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 213,
@@ -1710,7 +1712,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 214,
@@ -1718,7 +1720,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 215,
@@ -1726,7 +1728,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 216,
@@ -1734,7 +1736,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 217,
@@ -1742,7 +1744,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 218,
@@ -1750,7 +1752,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 219,
@@ -1758,7 +1760,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 220,
@@ -1766,7 +1768,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 221,
@@ -1774,7 +1776,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 222,
@@ -1782,7 +1784,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 223,
@@ -1790,7 +1792,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 224,
@@ -1798,7 +1800,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 225,
@@ -1806,7 +1808,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 226,
@@ -1814,7 +1816,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 227,
@@ -1822,7 +1824,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 228,
@@ -1830,7 +1832,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 229,
@@ -1838,7 +1840,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 230,
@@ -1846,7 +1848,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 231,
@@ -1854,7 +1856,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 232,
@@ -1862,7 +1864,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 233,
@@ -1870,7 +1872,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 234,
@@ -1878,7 +1880,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 235,
@@ -1886,7 +1888,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 236,
@@ -1894,7 +1896,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 237,
@@ -1902,7 +1904,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 238,
@@ -1910,7 +1912,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 239,
@@ -1918,7 +1920,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 240,
@@ -1926,7 +1928,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 241,
@@ -1934,7 +1936,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 242,
@@ -1942,7 +1944,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 243,
@@ -1950,7 +1952,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 244,
@@ -1958,7 +1960,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 245,
@@ -1966,7 +1968,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 246,
@@ -1974,7 +1976,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 247,
@@ -1982,7 +1984,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 248,
@@ -1990,7 +1992,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 249,
@@ -1998,7 +2000,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 250,
@@ -2006,7 +2008,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 251,
@@ -2014,7 +2016,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 252,
@@ -2022,7 +2024,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 253,
@@ -2030,7 +2032,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 254,
@@ -2038,7 +2040,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 255,
@@ -2046,7 +2048,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 256,
@@ -2054,7 +2056,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 257,
@@ -2062,7 +2064,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 258,
@@ -2070,7 +2072,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 259,
@@ -2078,7 +2080,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 260,
@@ -2086,7 +2088,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 261,
@@ -2094,7 +2096,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 262,
@@ -2102,7 +2104,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 263,
@@ -2110,7 +2112,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 264,
@@ -2118,7 +2120,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 265,
@@ -2126,7 +2128,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 266,
@@ -2134,7 +2136,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/שלוש_משאלות.jpg"
   },
   {
     "index": 267,
@@ -2142,7 +2144,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 268,
@@ -2150,7 +2152,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 269,
@@ -2158,7 +2160,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 270,
@@ -2166,7 +2168,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 271,
@@ -2174,7 +2176,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 272,
@@ -2182,7 +2184,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 273,
@@ -2190,7 +2192,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 274,
@@ -2198,7 +2200,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 275,
@@ -2206,7 +2208,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 276,
@@ -2214,7 +2216,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 277,
@@ -2222,7 +2224,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 278,
@@ -2230,7 +2232,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 279,
@@ -2238,7 +2240,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 280,
@@ -2246,7 +2248,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 281,
@@ -2254,7 +2256,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 282,
@@ -2262,7 +2264,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 283,
@@ -2270,7 +2272,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 284,
@@ -2278,7 +2280,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 285,
@@ -2286,7 +2288,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 286,
@@ -2294,7 +2296,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 287,
@@ -2302,7 +2304,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 288,
@@ -2310,7 +2312,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 289,
@@ -2318,7 +2320,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 290,
@@ -2326,7 +2328,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 291,
@@ -2334,7 +2336,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 292,
@@ -2342,7 +2344,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 293,
@@ -2350,7 +2352,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 294,
@@ -2358,7 +2360,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 295,
@@ -2366,7 +2368,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 296,
@@ -2374,7 +2376,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/הסודות_שהולכים_איתנו.jpg"
+    "imageUrl": "Images/הסודות_שהולכים_איתנו.jpg"
   },
   {
     "index": 297,
@@ -2382,7 +2384,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 298,
@@ -2390,7 +2392,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 299,
@@ -2398,7 +2400,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 300,
@@ -2406,7 +2408,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 301,
@@ -2414,7 +2416,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 302,
@@ -2422,7 +2424,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 303,
@@ -2430,7 +2432,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 304,
@@ -2438,7 +2440,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 305,
@@ -2446,7 +2448,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 306,
@@ -2454,7 +2456,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 307,
@@ -2462,7 +2464,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 308,
@@ -2470,7 +2472,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 309,
@@ -2478,7 +2480,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 310,
@@ -2486,7 +2488,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 311,
@@ -2494,7 +2496,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 312,
@@ -2502,7 +2504,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 313,
@@ -2510,7 +2512,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 314,
@@ -2518,7 +2520,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 315,
@@ -2526,7 +2528,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 316,
@@ -2534,7 +2536,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 317,
@@ -2542,7 +2544,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 318,
@@ -2550,7 +2552,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 319,
@@ -2558,7 +2560,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 320,
@@ -2566,7 +2568,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 321,
@@ -2574,7 +2576,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 322,
@@ -2582,7 +2584,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 323,
@@ -2590,7 +2592,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 324,
@@ -2598,7 +2600,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 325,
@@ -2606,7 +2608,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 326,
@@ -2614,7 +2616,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 327,
@@ -2622,7 +2624,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 328,
@@ -2630,7 +2632,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 329,
@@ -2638,7 +2640,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 330,
@@ -2646,7 +2648,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 331,
@@ -2654,7 +2656,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 332,
@@ -2662,7 +2664,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 333,
@@ -2670,7 +2672,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 334,
@@ -2678,7 +2680,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 335,
@@ -2686,7 +2688,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 336,
@@ -2694,7 +2696,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 337,
@@ -2702,7 +2704,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 338,
@@ -2710,7 +2712,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 339,
@@ -2718,7 +2720,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 340,
@@ -2726,7 +2728,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 341,
@@ -2734,7 +2736,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 342,
@@ -2742,7 +2744,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 343,
@@ -2750,7 +2752,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 344,
@@ -2758,7 +2760,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 345,
@@ -2766,7 +2768,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 346,
@@ -2774,7 +2776,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 347,
@@ -2782,7 +2784,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 348,
@@ -2790,7 +2792,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 349,
@@ -2798,7 +2800,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 350,
@@ -2806,7 +2808,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 351,
@@ -2814,7 +2816,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 352,
@@ -2822,7 +2824,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 353,
@@ -2830,7 +2832,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 354,
@@ -2838,7 +2840,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 355,
@@ -2846,7 +2848,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 356,
@@ -2854,7 +2856,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 357,
@@ -2862,7 +2864,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 358,
@@ -2870,7 +2872,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 359,
@@ -2878,7 +2880,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 360,
@@ -2886,7 +2888,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 361,
@@ -2894,7 +2896,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 362,
@@ -2902,7 +2904,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 363,
@@ -2910,7 +2912,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 364,
@@ -2918,7 +2920,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 365,
@@ -2926,7 +2928,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 366,
@@ -2934,7 +2936,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 367,
@@ -2942,7 +2944,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 368,
@@ -2950,7 +2952,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 369,
@@ -2958,7 +2960,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 370,
@@ -2966,7 +2968,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 371,
@@ -2974,7 +2976,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 372,
@@ -2982,7 +2984,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 373,
@@ -2990,7 +2992,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 374,
@@ -2998,7 +3000,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 375,
@@ -3006,7 +3008,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 376,
@@ -3014,7 +3016,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 377,
@@ -3022,7 +3024,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 378,
@@ -3030,7 +3032,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 379,
@@ -3038,7 +3040,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 380,
@@ -3046,7 +3048,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 381,
@@ -3054,7 +3056,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 382,
@@ -3062,7 +3064,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 383,
@@ -3070,7 +3072,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 384,
@@ -3078,7 +3080,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 385,
@@ -3086,7 +3088,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 386,
@@ -3094,7 +3096,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 387,
@@ -3102,7 +3104,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 388,
@@ -3110,7 +3112,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 389,
@@ -3118,7 +3120,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 390,
@@ -3126,7 +3128,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 391,
@@ -3134,7 +3136,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 392,
@@ -3142,7 +3144,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 393,
@@ -3150,7 +3152,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 394,
@@ -3158,7 +3160,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 395,
@@ -3166,7 +3168,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 396,
@@ -3174,7 +3176,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 397,
@@ -3182,7 +3184,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 398,
@@ -3190,7 +3192,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 399,
@@ -3198,7 +3200,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 400,
@@ -3206,7 +3208,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 401,
@@ -3214,7 +3216,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 402,
@@ -3222,7 +3224,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 403,
@@ -3230,7 +3232,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 404,
@@ -3238,7 +3240,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 405,
@@ -3246,7 +3248,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 406,
@@ -3254,7 +3256,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 407,
@@ -3262,7 +3264,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 408,
@@ -3270,7 +3272,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 409,
@@ -3278,7 +3280,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 410,
@@ -3286,7 +3288,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 411,
@@ -3294,7 +3296,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 412,
@@ -3302,7 +3304,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 413,
@@ -3310,7 +3312,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 414,
@@ -3318,7 +3320,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 415,
@@ -3326,7 +3328,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 416,
@@ -3334,7 +3336,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 417,
@@ -3342,7 +3344,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 418,
@@ -3350,7 +3352,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 419,
@@ -3358,7 +3360,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 420,
@@ -3366,7 +3368,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 421,
@@ -3374,7 +3376,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 422,
@@ -3382,7 +3384,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 423,
@@ -3390,7 +3392,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 424,
@@ -3398,7 +3400,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 425,
@@ -3406,7 +3408,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 426,
@@ -3414,7 +3416,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 427,
@@ -3422,7 +3424,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 428,
@@ -3430,7 +3432,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 429,
@@ -3438,7 +3440,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 430,
@@ -3446,7 +3448,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 431,
@@ -3454,7 +3456,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 432,
@@ -3462,7 +3464,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 433,
@@ -3470,7 +3472,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 434,
@@ -3478,7 +3480,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 435,
@@ -3486,7 +3488,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 436,
@@ -3494,7 +3496,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 437,
@@ -3502,7 +3504,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 438,
@@ -3510,7 +3512,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 439,
@@ -3518,7 +3520,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 440,
@@ -3526,7 +3528,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 441,
@@ -3534,7 +3536,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 442,
@@ -3542,7 +3544,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 443,
@@ -3550,7 +3552,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 444,
@@ -3558,7 +3560,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 445,
@@ -3566,7 +3568,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 446,
@@ -3574,7 +3576,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 447,
@@ -3582,7 +3584,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 448,
@@ -3590,7 +3592,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 449,
@@ -3598,7 +3600,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 450,
@@ -3606,7 +3608,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 451,
@@ -3614,7 +3616,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 452,
@@ -3622,7 +3624,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 453,
@@ -3630,7 +3632,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 454,
@@ -3638,7 +3640,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 455,
@@ -3646,7 +3648,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 456,
@@ -3654,7 +3656,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 457,
@@ -3662,7 +3664,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 458,
@@ -3670,7 +3672,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 459,
@@ -3678,7 +3680,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 460,
@@ -3686,7 +3688,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 461,
@@ -3694,7 +3696,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 462,
@@ -3702,7 +3704,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 463,
@@ -3710,7 +3712,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 464,
@@ -3718,7 +3720,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 465,
@@ -3726,7 +3728,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 466,
@@ -3734,7 +3736,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 467,
@@ -3742,7 +3744,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 468,
@@ -3750,7 +3752,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 469,
@@ -3758,7 +3760,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 470,
@@ -3766,7 +3768,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 471,
@@ -3774,7 +3776,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 472,
@@ -3782,7 +3784,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 473,
@@ -3790,7 +3792,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 474,
@@ -3798,7 +3800,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 475,
@@ -3806,7 +3808,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 476,
@@ -3814,7 +3816,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 477,
@@ -3822,7 +3824,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 478,
@@ -3830,7 +3832,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 479,
@@ -3838,7 +3840,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 480,
@@ -3846,7 +3848,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 481,
@@ -3854,7 +3856,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 482,
@@ -3862,7 +3864,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 483,
@@ -3870,7 +3872,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 484,
@@ -3878,7 +3880,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 485,
@@ -3886,7 +3888,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 486,
@@ -3894,7 +3896,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 487,
@@ -3902,7 +3904,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 488,
@@ -3910,7 +3912,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 489,
@@ -3918,7 +3920,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 490,
@@ -3926,7 +3928,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 491,
@@ -3934,7 +3936,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 492,
@@ -3942,7 +3944,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 493,
@@ -3950,7 +3952,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 494,
@@ -3958,7 +3960,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 495,
@@ -3966,7 +3968,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 496,
@@ -3974,7 +3976,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 497,
@@ -3982,7 +3984,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 498,
@@ -3990,7 +3992,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 499,
@@ -3998,7 +4000,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 500,
@@ -4006,7 +4008,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 501,
@@ -4014,7 +4016,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 502,
@@ -4022,7 +4024,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/שדות_הלב.jpg"
+    "imageUrl": "Images/שדות_הלב.jpg"
   },
   {
     "index": 503,
@@ -4030,7 +4032,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 504,
@@ -4038,7 +4040,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 505,
@@ -4046,7 +4048,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 506,
@@ -4054,7 +4056,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 507,
@@ -4062,7 +4064,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 508,
@@ -4070,7 +4072,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 509,
@@ -4078,7 +4080,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 510,
@@ -4086,7 +4088,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 511,
@@ -4094,7 +4096,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 512,
@@ -4102,7 +4104,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 513,
@@ -4110,7 +4112,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 514,
@@ -4118,7 +4120,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 515,
@@ -4126,7 +4128,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 516,
@@ -4134,7 +4136,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 517,
@@ -4142,7 +4144,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 518,
@@ -4150,7 +4152,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 519,
@@ -4158,7 +4160,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 520,
@@ -4166,7 +4168,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 521,
@@ -4174,7 +4176,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 522,
@@ -4182,7 +4184,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 523,
@@ -4190,7 +4192,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 524,
@@ -4198,7 +4200,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 525,
@@ -4206,7 +4208,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 526,
@@ -4214,7 +4216,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 527,
@@ -4222,7 +4224,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 528,
@@ -4230,7 +4232,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 529,
@@ -4238,7 +4240,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 530,
@@ -4246,7 +4248,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 531,
@@ -4254,7 +4256,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 532,
@@ -4262,7 +4264,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 533,
@@ -4270,7 +4272,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 534,
@@ -4278,7 +4280,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 535,
@@ -4286,7 +4288,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 536,
@@ -4294,7 +4296,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 537,
@@ -4302,7 +4304,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 538,
@@ -4310,7 +4312,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 539,
@@ -4318,7 +4320,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 540,
@@ -4326,7 +4328,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 541,
@@ -4334,7 +4336,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 542,
@@ -4342,7 +4344,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 543,
@@ -4350,7 +4352,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 544,
@@ -4358,7 +4360,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 545,
@@ -4366,7 +4368,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 546,
@@ -4374,7 +4376,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 547,
@@ -4382,7 +4384,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 548,
@@ -4390,7 +4392,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 549,
@@ -4398,7 +4400,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 550,
@@ -4406,7 +4408,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 551,
@@ -4414,7 +4416,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 552,
@@ -4422,7 +4424,7 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   },
   {
     "index": 553,
@@ -4430,6 +4432,6 @@ const BOOKS_DATA = [
     "style": "",
     "author": "",
     "publisher": "",
-    "imageUrl": "../Images/cover_not_found.jpg"
+    "imageUrl": "Images/cover_not_found.jpg"
   }
 ];
